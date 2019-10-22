@@ -1,974 +1,974 @@
 [
     {
         "country": "Afghanistan",
-        "government": "Islamic Emirate"
+        "name": "Kabul"
     },
     {
         "country": "Albania",
-        "government": "Republic"
+        "name": "Tirana"
     },
     {
         "country": "Algeria",
-        "government": "Republic"
+        "name": "Alger"
     },
     {
         "country": "American Samoa",
-        "government": "US Territory"
+        "name": "Fagatogo"
     },
     {
         "country": "Andorra",
-        "government": "Parliamentary Coprincipality"
+        "name": "Andorra la Vella"
     },
     {
         "country": "Angola",
-        "government": "Republic"
+        "name": "Luanda"
     },
     {
         "country": "Anguilla",
-        "government": "Dependent Territory of the UK"
+        "name": "The Valley"
     },
     {
         "country": "Antarctica",
-        "government": "Co-administrated"
+        "name": null
     },
     {
         "country": "Antigua and Barbuda",
-        "government": "Constitutional Monarchy"
+        "name": "Saint John's"
     },
     {
         "country": "Argentina",
-        "government": "Federal Republic"
+        "name": "Buenos Aires"
     },
     {
         "country": "Armenia",
-        "government": "Republic"
+        "name": "Yerevan"
     },
     {
         "country": "Aruba",
-        "government": "Nonmetropolitan Territory of The Netherlands"
+        "name": "Oranjestad"
     },
     {
         "country": "Australia",
-        "government": "Federation Constitutional Monarchy"
+        "name": "Canberra"
     },
     {
         "country": "Austria",
-        "government": "Federal Republic"
+        "name": "Wien"
     },
     {
         "country": "Azerbaijan",
-        "government": "Federal Republic"
+        "name": "Baku"
     },
     {
         "country": "Bahamas",
-        "government": "Constitutional Monarchy"
+        "name": "Nassau"
     },
     {
         "country": "Bahrain",
-        "government": "Monarchy (Emirate)"
+        "name": "al-Manama"
     },
     {
         "country": "Bangladesh",
-        "government": "Republic"
+        "name": "Dhaka"
     },
     {
         "country": "Barbados",
-        "government": "Constitutional Monarchy"
+        "name": "Bridgetown"
     },
     {
         "country": "Belarus",
-        "government": "Republic"
+        "name": "Minsk"
     },
     {
         "country": "Belgium",
-        "government": "Federation Constitutional Monarchy"
+        "name": "Bruxelles [Brussel]"
     },
     {
         "country": "Belize",
-        "government": "Constitutional Monarchy"
+        "name": "Belmopan"
     },
     {
         "country": "Benin",
-        "government": "Republic"
+        "name": "Porto-Novo"
     },
     {
         "country": "Bermuda",
-        "government": "Dependent Territory of the UK"
+        "name": "Hamilton"
     },
     {
         "country": "Bhutan",
-        "government": "Monarchy"
+        "name": "Thimphu"
     },
     {
         "country": "Bolivia",
-        "government": "Republic"
+        "name": "La Paz"
     },
     {
         "country": "Bosnia and Herzegovina",
-        "government": "Federal Republic"
+        "name": "Sarajevo"
     },
     {
         "country": "Botswana",
-        "government": "Republic"
+        "name": "Gaborone"
     },
     {
         "country": "Bouvet Island",
-        "government": "Dependent Territory of Norway"
+        "name": null
     },
     {
         "country": "Brazil",
-        "government": "Federal Republic"
+        "name": "Brasília"
     },
     {
         "country": "British Indian Ocean Territory",
-        "government": "Dependent Territory of the UK"
+        "name": null
     },
     {
         "country": "Brunei",
-        "government": "Monarchy (Sultanate)"
+        "name": "Bandar Seri Begawan"
     },
     {
         "country": "Bulgaria",
-        "government": "Republic"
+        "name": "Sofia"
     },
     {
         "country": "Burkina Faso",
-        "government": "Republic"
+        "name": "Ouagadougou"
     },
     {
         "country": "Burundi",
-        "government": "Republic"
+        "name": "Bujumbura"
     },
     {
         "country": "Cambodia",
-        "government": "Constitutional Monarchy"
+        "name": "Phnom Penh"
     },
     {
         "country": "Cameroon",
-        "government": "Republic"
+        "name": "Yaound"
     },
     {
         "country": "Canada",
-        "government": "Constitutional Monarchy, Federation"
+        "name": "Ottawa"
     },
     {
         "country": "Cape Verde",
-        "government": "Republic"
+        "name": "Praia"
     },
     {
         "country": "Cayman Islands",
-        "government": "Dependent Territory of the UK"
+        "name": "George Town"
     },
     {
         "country": "Central African Republic",
-        "government": "Republic"
+        "name": "Bangui"
     },
     {
         "country": "Chad",
-        "government": "Republic"
+        "name": "N'Djam"
     },
     {
         "country": "Chile",
-        "government": "Republic"
+        "name": "Santiago de Chile"
     },
     {
         "country": "China",
-        "government": "People's Republic"
+        "name": "Peking"
     },
     {
         "country": "Christmas Island",
-        "government": "Territory of Australia"
+        "name": "Flying Fish Cove"
     },
     {
         "country": "Cocos (Keeling) Islands",
-        "government": "Territory of Australia"
+        "name": "West Island"
     },
     {
         "country": "Colombia",
-        "government": "Republic"
+        "name": "Santaf"
     },
     {
         "country": "Comoros",
-        "government": "Republic"
+        "name": "Moroni"
     },
     {
         "country": "Congo",
-        "government": "Republic"
+        "name": "Brazzaville"
     },
     {
         "country": "Cook Islands",
-        "government": "Nonmetropolitan Territory of New Zealand"
+        "name": "Avarua"
     },
     {
         "country": "Costa Rica",
-        "government": "Republic"
+        "name": "San Jos"
     },
     {
         "country": "Croatia",
-        "government": "Republic"
+        "name": "Zagreb"
     },
     {
         "country": "Cuba",
-        "government": "Socialistic Republic"
+        "name": "La Habana"
     },
     {
         "country": "Cyprus",
-        "government": "Republic"
+        "name": "Nicosia"
     },
     {
         "country": "Czech Republic",
-        "government": "Republic"
+        "name": "Praha"
     },
     {
         "country": "Denmark",
-        "government": "Constitutional Monarchy"
+        "name": "Copenhagen"
     },
     {
         "country": "Djibouti",
-        "government": "Republic"
+        "name": "Djibouti"
     },
     {
         "country": "Dominica",
-        "government": "Republic"
+        "name": "Roseau"
     },
     {
         "country": "Dominican Republic",
-        "government": "Republic"
+        "name": "Santo Domingo de Guzm"
     },
     {
         "country": "East Timor",
-        "government": "Administrated by the UN"
+        "name": "Dili"
     },
     {
         "country": "Ecuador",
-        "government": "Republic"
+        "name": "Quito"
     },
     {
         "country": "Egypt",
-        "government": "Republic"
+        "name": "Cairo"
     },
     {
         "country": "El Salvador",
-        "government": "Republic"
+        "name": "San Salvador"
     },
     {
         "country": "England",
-        "government": null
+        "name": "London"
     },
     {
         "country": "Equatorial Guinea",
-        "government": "Republic"
+        "name": "Malabo"
     },
     {
         "country": "Eritrea",
-        "government": "Republic"
+        "name": "Asmara"
     },
     {
         "country": "Estonia",
-        "government": "Republic"
+        "name": "Tallinn"
     },
     {
         "country": "Ethiopia",
-        "government": "Republic"
+        "name": "Addis Abeba"
     },
     {
         "country": "Falkland Islands",
-        "government": "Dependent Territory of the UK"
+        "name": "Stanley"
     },
     {
         "country": "Faroe Islands",
-        "government": "Part of Denmark"
+        "name": "Tórshavn"
     },
     {
         "country": "Fiji Islands",
-        "government": "Republic"
+        "name": "Suva"
     },
     {
         "country": "Finland",
-        "government": "Republic"
+        "name": "Helsinki [Helsingfors]"
     },
     {
         "country": "France",
-        "government": "Republic"
+        "name": "Paris"
     },
     {
         "country": "French Guiana",
-        "government": "Overseas Department of France"
+        "name": "Cayenne"
     },
     {
         "country": "French Polynesia",
-        "government": "Nonmetropolitan Territory of France"
+        "name": "Papeete"
     },
     {
         "country": "French Southern territories",
-        "government": "Nonmetropolitan Territory of France"
+        "name": null
     },
     {
         "country": "Gabon",
-        "government": "Republic"
+        "name": "Libreville"
     },
     {
         "country": "Gambia",
-        "government": "Republic"
+        "name": "Banjul"
     },
     {
         "country": "Georgia",
-        "government": "Republic"
+        "name": "Tbilisi"
     },
     {
         "country": "Germany",
-        "government": "Federal Republic"
+        "name": "Berlin"
     },
     {
         "country": "Ghana",
-        "government": "Republic"
+        "name": "Accra"
     },
     {
         "country": "Gibraltar",
-        "government": "Dependent Territory of the UK"
+        "name": "Gibraltar"
     },
     {
         "country": "Greece",
-        "government": "Republic"
+        "name": "Athenai"
     },
     {
         "country": "Greenland",
-        "government": "Part of Denmark"
+        "name": "Nuuk"
     },
     {
         "country": "Grenada",
-        "government": "Constitutional Monarchy"
+        "name": "Saint George's"
     },
     {
         "country": "Guadeloupe",
-        "government": "Overseas Department of France"
+        "name": "Basse-Terre"
     },
     {
         "country": "Guam",
-        "government": "US Territory"
+        "name": "Aga"
     },
     {
         "country": "Guatemala",
-        "government": "Republic"
+        "name": "Ciudad de Guatemala"
     },
     {
         "country": "Guinea",
-        "government": "Republic"
+        "name": "Conakry"
     },
     {
         "country": "Guinea-Bissau",
-        "government": "Republic"
+        "name": "Bissau"
     },
     {
         "country": "Guyana",
-        "government": "Republic"
+        "name": "Georgetown"
     },
     {
         "country": "Haiti",
-        "government": "Republic"
+        "name": "Port-au-Prince"
     },
     {
         "country": "Heard Island and McDonald Islands",
-        "government": "Territory of Australia"
+        "name": null
     },
     {
-        "country": "Holy See (Vatican City State)",
-        "government": "Independent Church State"
+        "country": "Holy See (Vatican name State)",
+        "name": "Citt"
     },
     {
         "country": "Honduras",
-        "government": "Republic"
+        "name": "Tegucigalpa"
     },
     {
         "country": "Hong Kong",
-        "government": "Special Administrative Region of China"
+        "name": "Victoria"
     },
     {
         "country": "Hungary",
-        "government": "Republic"
+        "name": "Budapest"
     },
     {
         "country": "Iceland",
-        "government": "Republic"
+        "name": "Reykjav"
     },
     {
         "country": "India",
-        "government": "Federal Republic"
+        "name": "New Delhi"
     },
     {
         "country": "Indonesia",
-        "government": "Republic"
+        "name": "Jakarta"
     },
     {
         "country": "Iran",
-        "government": "Islamic Republic"
+        "name": "Tehran"
     },
     {
         "country": "Iraq",
-        "government": "Republic"
+        "name": "Baghdad"
     },
     {
         "country": "Ireland",
-        "government": "Republic"
+        "name": "Dublin"
     },
     {
         "country": "Israel",
-        "government": "Republic"
+        "name": "Jerusalem"
     },
     {
         "country": "Italy",
-        "government": "Republic"
+        "name": "Roma"
     },
     {
         "country": "Ivory Coast",
-        "government": "Republic"
+        "name": "Yamoussoukro"
     },
     {
         "country": "Jamaica",
-        "government": "Constitutional Monarchy"
+        "name": "Kingston"
     },
     {
         "country": "Japan",
-        "government": "Constitutional Monarchy"
+        "name": "Tokyo"
     },
     {
         "country": "Jordan",
-        "government": "Constitutional Monarchy"
+        "name": "Amman"
     },
     {
         "country": "Kazakhstan",
-        "government": "Republic"
+        "name": "Astana"
     },
     {
         "country": "Kenya",
-        "government": "Republic"
+        "name": "Nairobi"
     },
     {
         "country": "Kiribati",
-        "government": "Republic"
+        "name": "Bairiki"
     },
     {
         "country": "Kuwait",
-        "government": "Constitutional Monarchy (Emirate)"
+        "name": "Kuwait"
     },
     {
         "country": "Kyrgyzstan",
-        "government": "Republic"
+        "name": "Bishkek"
     },
     {
         "country": "Laos",
-        "government": "Republic"
+        "name": "Vientiane"
     },
     {
         "country": "Latvia",
-        "government": "Republic"
+        "name": "Riga"
     },
     {
         "country": "Lebanon",
-        "government": "Republic"
+        "name": "Beirut"
     },
     {
         "country": "Lesotho",
-        "government": "Constitutional Monarchy"
+        "name": "Maseru"
     },
     {
         "country": "Liberia",
-        "government": "Republic"
+        "name": "Monrovia"
     },
     {
         "country": "Libyan Arab Jamahiriya",
-        "government": "Socialistic State"
+        "name": "Tripoli"
     },
     {
         "country": "Liechtenstein",
-        "government": "Constitutional Monarchy"
+        "name": "Vaduz"
     },
     {
         "country": "Lithuania",
-        "government": "Republic"
+        "name": "Vilnius"
     },
     {
         "country": "Luxembourg",
-        "government": "Constitutional Monarchy"
+        "name": "Luxembourg [Luxemburg/L"
     },
     {
         "country": "Macao",
-        "government": "Special Administrative Region of China"
+        "name": "Macao"
     },
     {
         "country": "North Macedonia",
-        "government": "Republic"
+        "name": "Skopje"
     },
     {
         "country": "Madagascar",
-        "government": "Federal Republic"
+        "name": "Antananarivo"
     },
     {
         "country": "Malawi",
-        "government": "Republic"
+        "name": "Lilongwe"
     },
     {
         "country": "Malaysia",
-        "government": "Constitutional Monarchy"
+        "name": "Kuala Lumpur"
     },
     {
         "country": "Maldives",
-        "government": "Republic"
+        "name": "Male"
     },
     {
         "country": "Mali",
-        "government": "Republic"
+        "name": "Bamako"
     },
     {
         "country": "Malta",
-        "government": "Republic"
+        "name": "Valletta"
     },
     {
         "country": "Marshall Islands",
-        "government": "Republic"
+        "name": "Dalap-Uliga-Darrit"
     },
     {
         "country": "Martinique",
-        "government": "Overseas Department of France"
+        "name": "Fort-de-France"
     },
     {
         "country": "Mauritania",
-        "government": "Republic"
+        "name": "Nouakchott"
     },
     {
         "country": "Mauritius",
-        "government": "Republic"
+        "name": "Port-Louis"
     },
     {
         "country": "Mayotte",
-        "government": "Territorial Collectivity of France"
+        "name": "Mamoutzou"
     },
     {
         "country": "Mexico",
-        "government": "Federal Republic"
+        "name": "Ciudad de M"
     },
     {
         "country": "Micronesia, Federated States of",
-        "government": "Federal Republic"
+        "name": "Palikir"
     },
     {
         "country": "Moldova",
-        "government": "Republic"
+        "name": "Chisinau"
     },
     {
         "country": "Monaco",
-        "government": "Constitutional Monarchy"
+        "name": "Monaco-Ville"
     },
     {
         "country": "Mongolia",
-        "government": "Republic"
+        "name": "Ulan Bator"
     },
     {
         "country": "Montserrat",
-        "government": "Dependent Territory of the UK"
+        "name": "Plymouth"
     },
     {
         "country": "Morocco",
-        "government": "Constitutional Monarchy"
+        "name": "Rabat"
     },
     {
         "country": "Mozambique",
-        "government": "Republic"
+        "name": "Maputo"
     },
     {
         "country": "Myanmar",
-        "government": "Republic"
+        "name": "Rangoon (Yangon)"
     },
     {
         "country": "Namibia",
-        "government": "Republic"
+        "name": "Windhoek"
     },
     {
         "country": "Nauru",
-        "government": "Republic"
+        "name": "Yaren"
     },
     {
         "country": "Nepal",
-        "government": "Federal parliamentary republic"
+        "name": "Kathmandu"
     },
     {
         "country": "Netherlands",
-        "government": "Constitutional Monarchy"
+        "name": "Amsterdam"
     },
     {
         "country": "Netherlands Antilles",
-        "government": "Nonmetropolitan Territory of The Netherlands"
+        "name": "Willemstad"
     },
     {
         "country": "New Caledonia",
-        "government": "Nonmetropolitan Territory of France"
+        "name": "Noum"
     },
     {
         "country": "New Zealand",
-        "government": "Constitutional Monarchy"
+        "name": "Wellington"
     },
     {
         "country": "Nicaragua",
-        "government": "Republic"
+        "name": "Managua"
     },
     {
         "country": "Niger",
-        "government": "Republic"
+        "name": "Niamey"
     },
     {
         "country": "Nigeria",
-        "government": "Federal Republic"
+        "name": "Abuja"
     },
     {
         "country": "Niue",
-        "government": "Nonmetropolitan Territory of New Zealand"
+        "name": "Alofi"
     },
     {
         "country": "Norfolk Island",
-        "government": "Territory of Australia"
+        "name": "Kingston"
     },
     {
         "country": "North Korea",
-        "government": "Socialistic Republic"
+        "name": "Pyongyang"
     },
     {
         "country": "Northern Ireland",
-        "government": null
+        "name": "Belfast"
     },
     {
         "country": "Northern Mariana Islands",
-        "government": "Commonwealth of the US"
+        "name": "Garapan"
     },
     {
         "country": "Norway",
-        "government": "Constitutional Monarchy"
+        "name": "Oslo"
     },
     {
         "country": "Oman",
-        "government": "Monarchy (Sultanate)"
+        "name": "Masqat"
     },
     {
         "country": "Pakistan",
-        "government": "Republic"
+        "name": "Islamabad"
     },
     {
         "country": "Palau",
-        "government": "Republic"
+        "name": "Koror"
     },
     {
         "country": "Palestine",
-        "government": "Autonomous Area"
+        "name": "Gaza"
     },
     {
         "country": "Panama",
-        "government": "Republic"
+        "name": "Ciudad de Panam"
     },
     {
         "country": "Papua New Guinea",
-        "government": "Constitutional Monarchy"
+        "name": "Port Moresby"
     },
     {
         "country": "Paraguay",
-        "government": "Republic"
+        "name": "Asunci"
     },
     {
         "country": "Peru",
-        "government": "Republic"
+        "name": "Lima"
     },
     {
         "country": "Philippines",
-        "government": "Republic"
+        "name": "Manila"
     },
     {
         "country": "Pitcairn",
-        "government": "Dependent Territory of the UK"
+        "name": "Adamstown"
     },
     {
         "country": "Poland",
-        "government": "Republic"
+        "name": "Warszawa"
     },
     {
         "country": "Portugal",
-        "government": "Republic"
+        "name": "Lisboa"
     },
     {
         "country": "Puerto Rico",
-        "government": "Commonwealth of the US"
+        "name": "San Juan"
     },
     {
         "country": "Qatar",
-        "government": "Monarchy"
+        "name": "Doha"
     },
     {
         "country": "Reunion",
-        "government": "Overseas Department of France"
+        "name": "Saint-Denis"
     },
     {
         "country": "Romania",
-        "government": "Republic"
+        "name": "Bucuresti"
     },
     {
         "country": "Russian Federation",
-        "government": "Federal Republic"
+        "name": "Moscow"
     },
     {
         "country": "Rwanda",
-        "government": "Republic"
+        "name": "Kigali"
     },
     {
         "country": "Saint Helena",
-        "government": "Dependent Territory of the UK"
+        "name": "Jamestown"
     },
     {
         "country": "Saint Kitts and Nevis",
-        "government": "Constitutional Monarchy"
+        "name": "Basseterre"
     },
     {
         "country": "Saint Lucia",
-        "government": "Constitutional Monarchy"
+        "name": "Castries"
     },
     {
         "country": "Saint Pierre and Miquelon",
-        "government": "Territorial Collectivity of France"
+        "name": "Saint-Pierre"
     },
     {
         "country": "Saint Vincent and the Grenadines",
-        "government": "Constitutional Monarchy"
+        "name": "Kingstown"
     },
     {
         "country": "Samoa",
-        "government": "Parlementary Monarchy"
+        "name": "Apia"
     },
     {
         "country": "San Marino",
-        "government": "Republic"
+        "name": "San Marino"
     },
     {
         "country": "Sao Tome and Principe",
-        "government": "Republic"
+        "name": "S"
     },
     {
         "country": "Saudi Arabia",
-        "government": "Monarchy"
+        "name": "Riyadh"
     },
     {
         "country": "Scotland",
-        "government": null
+        "name": "Edinburgh"
     },
     {
         "country": "Senegal",
-        "government": "Republic"
+        "name": "Dakar"
     },
     {
         "country": "Seychelles",
-        "government": "Republic"
+        "name": "Victoria"
     },
     {
         "country": "Sierra Leone",
-        "government": "Republic"
+        "name": "Freetown"
     },
     {
         "country": "Singapore",
-        "government": "Republic"
+        "name": "Singapore"
     },
     {
         "country": "Slovakia",
-        "government": "Republic"
+        "name": "Bratislava"
     },
     {
         "country": "Slovenia",
-        "government": "Republic"
+        "name": "Ljubljana"
     },
     {
         "country": "Solomon Islands",
-        "government": "Constitutional Monarchy"
+        "name": "Honiara"
     },
     {
         "country": "Somalia",
-        "government": "Republic"
+        "name": "Mogadishu"
     },
     {
         "country": "South Africa",
-        "government": "Republic"
+        "name": "Pretoria"
     },
     {
         "country": "South Georgia and the South Sandwich Islands",
-        "government": "Dependent Territory of the UK"
+        "name": null
     },
     {
         "country": "South Korea",
-        "government": "Republic"
+        "name": "Seoul"
     },
     {
         "country": "South Sudan",
-        "government": null
+        "name": "Juba"
     },
     {
         "country": "Spain",
-        "government": "Constitutional Monarchy"
+        "name": "Madrid"
     },
     {
         "country": "SriLanka",
-        "government": null
+        "name": null
     },
     {
         "country": "Sudan",
-        "government": "Islamic Republic"
+        "name": "Khartum"
     },
     {
         "country": "Suriname",
-        "government": "Republic"
+        "name": "Paramaribo"
     },
     {
         "country": "Svalbard and Jan Mayen",
-        "government": "Dependent Territory of Norway"
+        "name": "Longyearbyen"
     },
     {
         "country": "Swaziland",
-        "government": "Monarchy"
+        "name": "Mbabane"
     },
     {
         "country": "Sweden",
-        "government": "Constitutional Monarchy"
+        "name": "Stockholm"
     },
     {
         "country": "Switzerland",
-        "government": "Federation"
+        "name": "Bern"
     },
     {
         "country": "Syria",
-        "government": "Republic"
+        "name": "Damascus"
     },
     {
         "country": "Tajikistan",
-        "government": "Republic"
+        "name": "Dushanbe"
     },
     {
         "country": "Tanzania",
-        "government": "Republic"
+        "name": "Dodoma"
     },
     {
         "country": "Thailand",
-        "government": "Constitutional Monarchy"
+        "name": "Bangkok"
     },
     {
         "country": "The Democratic Republic of Congo",
-        "government": null
+        "name": null
     },
     {
         "country": "Togo",
-        "government": "Republic"
+        "name": "Lom"
     },
     {
         "country": "Tokelau",
-        "government": "Nonmetropolitan Territory of New Zealand"
+        "name": "Fakaofo"
     },
     {
         "country": "Tonga",
-        "government": "Monarchy"
+        "name": "Nuku'alofa"
     },
     {
         "country": "Trinidad and Tobago",
-        "government": "Republic"
+        "name": "Port-of-Spain"
     },
     {
         "country": "Tunisia",
-        "government": "Republic"
+        "name": "Tunis"
     },
     {
         "country": "Turkey",
-        "government": "Republic"
+        "name": "Ankara"
     },
     {
         "country": "Turkmenistan",
-        "government": "Republic"
+        "name": "Ashgabat"
     },
     {
         "country": "Turks and Caicos Islands",
-        "government": "Dependent Territory of the UK"
+        "name": "Cockburn Town"
     },
     {
         "country": "Tuvalu",
-        "government": "Constitutional Monarchy"
+        "name": "Funafuti"
     },
     {
         "country": "Uganda",
-        "government": "Republic"
+        "name": "Kampala"
     },
     {
         "country": "Ukraine",
-        "government": "Republic"
+        "name": "Kyiv"
     },
     {
         "country": "United Arab Emirates",
-        "government": "Emirate Federation"
+        "name": "Abu Dhabi"
     },
     {
         "country": "United Kingdom",
-        "government": "Constitutional Monarchy"
+        "name": "London"
     },
     {
         "country": "United States",
-        "government": "Federal Republic"
+        "name": "Washington"
     },
     {
         "country": "United States Minor Outlying Islands",
-        "government": "Dependent Territory of the US"
+        "name": null
     },
     {
         "country": "Uruguay",
-        "government": "Republic"
+        "name": "Montevideo"
     },
     {
         "country": "Uzbekistan",
-        "government": "Republic"
+        "name": "Toskent"
     },
     {
         "country": "Vanuatu",
-        "government": "Republic"
+        "name": "Port-Vila"
     },
     {
         "country": "Venezuela",
-        "government": "Federal Republic"
+        "name": "Caracas"
     },
     {
         "country": "Vietnam",
-        "government": "Socialistic Republic"
+        "name": "Hanoi"
     },
     {
         "country": "Virgin Islands, British",
-        "government": null
+        "name": "Road Town"
     },
     {
         "country": "Virgin Islands, U.S.",
-        "government": null
+        "name": "Charlotte Amalie"
     },
     {
         "country": "Wales",
-        "government": null
+        "name": "Cardiff"
     },
     {
         "country": "Wallis and Futuna",
-        "government": "Nonmetropolitan Territory of France"
+        "name": "Mata-Utu"
     },
     {
         "country": "Western Sahara",
-        "government": "Occupied by Marocco"
+        "name": "El-Aai"
     },
     {
         "country": "Yemen",
-        "government": "Republic"
+        "name": "Sanaa"
     },
     {
         "country": "Yugoslavia",
-        "government": "Federal Republic"
+        "name": "Beograd"
     },
     {
         "country": "Zambia",
-        "government": "Republic"
+        "name": "Lusaka"
     },
     {
         "country": "Zimbabwe",
-        "government": "Republic"
+        "name": "Harare"
     }
 ]

@@ -1,974 +1,974 @@
 [
     {
         "country": "Afghanistan",
-        "independence": "1919"
+        "callingCode": "93"
     },
     {
         "country": "Albania",
-        "independence": "1912"
+        "callingCode": "355"
     },
     {
         "country": "Algeria",
-        "independence": "1962"
+        "callingCode": "213"
     },
     {
         "country": "American Samoa",
-        "independence": null
+        "callingCode": "1684"
     },
     {
         "country": "Andorra",
-        "independence": "1278"
+        "callingCode": "376"
     },
     {
         "country": "Angola",
-        "independence": "1975"
+        "callingCode": "244"
     },
     {
         "country": "Anguilla",
-        "independence": null
+        "callingCode": "1264"
     },
     {
         "country": "Antarctica",
-        "independence": null
+        "callingCode": null
     },
     {
         "country": "Antigua and Barbuda",
-        "independence": "1981"
+        "callingCode": "1268"
     },
     {
         "country": "Argentina",
-        "independence": "1816"
+        "callingCode": "54"
     },
     {
         "country": "Armenia",
-        "independence": "1991"
+        "callingCode": "374"
     },
     {
         "country": "Aruba",
-        "independence": null
+        "callingCode": "297"
     },
     {
         "country": "Australia",
-        "independence": "1901"
+        "callingCode": "61"
     },
     {
         "country": "Austria",
-        "independence": "1918"
+        "callingCode": "43"
     },
     {
         "country": "Azerbaijan",
-        "independence": "1991"
+        "callingCode": "994"
     },
     {
         "country": "Bahamas",
-        "independence": "1973"
+        "callingCode": "1242"
     },
     {
         "country": "Bahrain",
-        "independence": "1971"
+        "callingCode": "973"
     },
     {
         "country": "Bangladesh",
-        "independence": "1971"
+        "callingCode": "880"
     },
     {
         "country": "Barbados",
-        "independence": "1966"
+        "callingCode": "1246"
     },
     {
         "country": "Belarus",
-        "independence": "1991"
+        "callingCode": "375"
     },
     {
         "country": "Belgium",
-        "independence": "1830"
+        "callingCode": "32"
     },
     {
         "country": "Belize",
-        "independence": "1981"
+        "callingCode": "501"
     },
     {
         "country": "Benin",
-        "independence": "1960"
+        "callingCode": "229"
     },
     {
         "country": "Bermuda",
-        "independence": null
+        "callingCode": "1441"
     },
     {
         "country": "Bhutan",
-        "independence": "1910"
+        "callingCode": "975"
     },
     {
         "country": "Bolivia",
-        "independence": "1825"
+        "callingCode": "591"
     },
     {
         "country": "Bosnia and Herzegovina",
-        "independence": "1992"
+        "callingCode": "387"
     },
     {
         "country": "Botswana",
-        "independence": "1966"
+        "callingCode": "267"
     },
     {
         "country": "Bouvet Island",
-        "independence": null
+        "callingCode": null
     },
     {
         "country": "Brazil",
-        "independence": "1822"
+        "callingCode": "55"
     },
     {
         "country": "British Indian Ocean Territory",
-        "independence": null
+        "callingCode": "246"
     },
     {
         "country": "Brunei",
-        "independence": "1984"
+        "callingCode": null
     },
     {
         "country": "Bulgaria",
-        "independence": "1908"
+        "callingCode": "359"
     },
     {
         "country": "Burkina Faso",
-        "independence": "1960"
+        "callingCode": "226"
     },
     {
         "country": "Burundi",
-        "independence": "1962"
+        "callingCode": "257"
     },
     {
         "country": "Cambodia",
-        "independence": "1953"
+        "callingCode": "855"
     },
     {
         "country": "Cameroon",
-        "independence": "1960"
+        "callingCode": "237"
     },
     {
         "country": "Canada",
-        "independence": "1867"
+        "callingCode": "1"
     },
     {
         "country": "Cape Verde",
-        "independence": "1975"
+        "callingCode": null
     },
     {
         "country": "Cayman Islands",
-        "independence": null
+        "callingCode": "1345"
     },
     {
         "country": "Central African Republic",
-        "independence": "1960"
+        "callingCode": "236"
     },
     {
         "country": "Chad",
-        "independence": "1960"
+        "callingCode": "235"
     },
     {
         "country": "Chile",
-        "independence": "1810"
+        "callingCode": "56"
     },
     {
         "country": "China",
-        "independence": "-1523"
+        "callingCode": "86"
     },
     {
         "country": "Christmas Island",
-        "independence": null
+        "callingCode": "61"
     },
     {
         "country": "Cocos (Keeling) Islands",
-        "independence": null
+        "callingCode": "61"
     },
     {
         "country": "Colombia",
-        "independence": "1810"
+        "callingCode": "57"
     },
     {
         "country": "Comoros",
-        "independence": "1975"
+        "callingCode": "269"
     },
     {
         "country": "Congo",
-        "independence": "1960"
+        "callingCode": "242"
     },
     {
         "country": "Cook Islands",
-        "independence": null
+        "callingCode": "682"
     },
     {
         "country": "Costa Rica",
-        "independence": "1821"
+        "callingCode": "506"
     },
     {
         "country": "Croatia",
-        "independence": "1991"
+        "callingCode": "385"
     },
     {
         "country": "Cuba",
-        "independence": "1902"
+        "callingCode": "53"
     },
     {
         "country": "Cyprus",
-        "independence": "1960"
+        "callingCode": "357"
     },
     {
         "country": "Czech Republic",
-        "independence": "1993"
+        "callingCode": "420"
     },
     {
         "country": "Denmark",
-        "independence": "800"
+        "callingCode": "45"
     },
     {
         "country": "Djibouti",
-        "independence": "1977"
+        "callingCode": "253"
     },
     {
         "country": "Dominica",
-        "independence": "1978"
+        "callingCode": "1767"
     },
     {
         "country": "Dominican Republic",
-        "independence": "1844"
+        "callingCode": "1849"
     },
     {
         "country": "East Timor",
-        "independence": null
+        "callingCode": "670"
     },
     {
         "country": "Ecuador",
-        "independence": "1822"
+        "callingCode": "593"
     },
     {
         "country": "Egypt",
-        "independence": "1922"
+        "callingCode": "20"
     },
     {
         "country": "El Salvador",
-        "independence": "1841"
+        "callingCode": "503"
     },
     {
         "country": "England",
-        "independence": null
+        "callingCode": null
     },
     {
         "country": "Equatorial Guinea",
-        "independence": "1968"
+        "callingCode": "240"
     },
     {
         "country": "Eritrea",
-        "independence": "1993"
+        "callingCode": "291"
     },
     {
         "country": "Estonia",
-        "independence": "1991"
+        "callingCode": "372"
     },
     {
         "country": "Ethiopia",
-        "independence": "-1000"
+        "callingCode": "251"
     },
     {
         "country": "Falkland Islands",
-        "independence": null
+        "callingCode": "500"
     },
     {
         "country": "Faroe Islands",
-        "independence": null
+        "callingCode": "298"
     },
     {
         "country": "Fiji Islands",
-        "independence": "1970"
+        "callingCode": null
     },
     {
         "country": "Finland",
-        "independence": "1917"
+        "callingCode": "358"
     },
     {
         "country": "France",
-        "independence": "843"
+        "callingCode": "33"
     },
     {
         "country": "French Guiana",
-        "independence": null
+        "callingCode": "594"
     },
     {
         "country": "French Polynesia",
-        "independence": null
+        "callingCode": "689"
     },
     {
         "country": "French Southern territories",
-        "independence": null
+        "callingCode": null
     },
     {
         "country": "Gabon",
-        "independence": "1960"
+        "callingCode": "241"
     },
     {
         "country": "Gambia",
-        "independence": "1965"
+        "callingCode": "220"
     },
     {
         "country": "Georgia",
-        "independence": "1991"
+        "callingCode": "995"
     },
     {
         "country": "Germany",
-        "independence": "1955"
+        "callingCode": "49"
     },
     {
         "country": "Ghana",
-        "independence": "1957"
+        "callingCode": "233"
     },
     {
         "country": "Gibraltar",
-        "independence": null
+        "callingCode": "350"
     },
     {
         "country": "Greece",
-        "independence": "1830"
+        "callingCode": "30"
     },
     {
         "country": "Greenland",
-        "independence": null
+        "callingCode": "299"
     },
     {
         "country": "Grenada",
-        "independence": "1974"
+        "callingCode": "1473"
     },
     {
         "country": "Guadeloupe",
-        "independence": null
+        "callingCode": "590"
     },
     {
         "country": "Guam",
-        "independence": null
+        "callingCode": "1671"
     },
     {
         "country": "Guatemala",
-        "independence": "1821"
+        "callingCode": "502"
     },
     {
         "country": "Guinea",
-        "independence": "1958"
+        "callingCode": "224"
     },
     {
         "country": "Guinea-Bissau",
-        "independence": "1974"
+        "callingCode": "245"
     },
     {
         "country": "Guyana",
-        "independence": "1966"
+        "callingCode": "592"
     },
     {
         "country": "Haiti",
-        "independence": "1804"
+        "callingCode": "509"
     },
     {
         "country": "Heard Island and McDonald Islands",
-        "independence": null
+        "callingCode": null
     },
     {
         "country": "Holy See (Vatican City State)",
-        "independence": "1929"
+        "callingCode": null
     },
     {
         "country": "Honduras",
-        "independence": "1838"
+        "callingCode": "504"
     },
     {
         "country": "Hong Kong",
-        "independence": null
+        "callingCode": "852"
     },
     {
         "country": "Hungary",
-        "independence": "1918"
+        "callingCode": "36"
     },
     {
         "country": "Iceland",
-        "independence": "1944"
+        "callingCode": "354"
     },
     {
         "country": "India",
-        "independence": "1947"
+        "callingCode": "91"
     },
     {
         "country": "Indonesia",
-        "independence": "1945"
+        "callingCode": "62"
     },
     {
         "country": "Iran",
-        "independence": "1906"
+        "callingCode": "98"
     },
     {
         "country": "Iraq",
-        "independence": "1932"
+        "callingCode": "964"
     },
     {
         "country": "Ireland",
-        "independence": "1921"
+        "callingCode": "353"
     },
     {
         "country": "Israel",
-        "independence": "1948"
+        "callingCode": "972"
     },
     {
         "country": "Italy",
-        "independence": "1861"
+        "callingCode": "39"
     },
     {
         "country": "Ivory Coast",
-        "independence": "1960"
+        "callingCode": "225"
     },
     {
         "country": "Jamaica",
-        "independence": "1962"
+        "callingCode": "1876"
     },
     {
         "country": "Japan",
-        "independence": "-660"
+        "callingCode": "81"
     },
     {
         "country": "Jordan",
-        "independence": "1946"
+        "callingCode": "962"
     },
     {
         "country": "Kazakhstan",
-        "independence": "1991"
+        "callingCode": "7"
     },
     {
         "country": "Kenya",
-        "independence": "1963"
+        "callingCode": "254"
     },
     {
         "country": "Kiribati",
-        "independence": "1979"
+        "callingCode": "686"
     },
     {
         "country": "Kuwait",
-        "independence": "1961"
+        "callingCode": "965"
     },
     {
         "country": "Kyrgyzstan",
-        "independence": "1991"
+        "callingCode": "996"
     },
     {
         "country": "Laos",
-        "independence": "1953"
+        "callingCode": "856"
     },
     {
         "country": "Latvia",
-        "independence": "1991"
+        "callingCode": "371"
     },
     {
         "country": "Lebanon",
-        "independence": "1941"
+        "callingCode": "961"
     },
     {
         "country": "Lesotho",
-        "independence": "1966"
+        "callingCode": "266"
     },
     {
         "country": "Liberia",
-        "independence": "1847"
+        "callingCode": "231"
     },
     {
         "country": "Libyan Arab Jamahiriya",
-        "independence": "1951"
+        "callingCode": null
     },
     {
         "country": "Liechtenstein",
-        "independence": "1806"
+        "callingCode": "423"
     },
     {
         "country": "Lithuania",
-        "independence": "1991"
+        "callingCode": "370"
     },
     {
         "country": "Luxembourg",
-        "independence": "1867"
+        "callingCode": "352"
     },
     {
         "country": "Macao",
-        "independence": null
+        "callingCode": null
     },
     {
         "country": "North Macedonia",
-        "independence": "1991"
+        "callingCode": "389"
     },
     {
         "country": "Madagascar",
-        "independence": "1960"
+        "callingCode": "261"
     },
     {
         "country": "Malawi",
-        "independence": "1964"
+        "callingCode": "265"
     },
     {
         "country": "Malaysia",
-        "independence": "1957"
+        "callingCode": "60"
     },
     {
         "country": "Maldives",
-        "independence": "1965"
+        "callingCode": "960"
     },
     {
         "country": "Mali",
-        "independence": "1960"
+        "callingCode": "223"
     },
     {
         "country": "Malta",
-        "independence": "1964"
+        "callingCode": "356"
     },
     {
         "country": "Marshall Islands",
-        "independence": "1990"
+        "callingCode": "692"
     },
     {
         "country": "Martinique",
-        "independence": null
+        "callingCode": "596"
     },
     {
         "country": "Mauritania",
-        "independence": "1960"
+        "callingCode": "222"
     },
     {
         "country": "Mauritius",
-        "independence": "1968"
+        "callingCode": "230"
     },
     {
         "country": "Mayotte",
-        "independence": null
+        "callingCode": "262"
     },
     {
         "country": "Mexico",
-        "independence": "1810"
+        "callingCode": "52"
     },
     {
         "country": "Micronesia, Federated States of",
-        "independence": "1990"
+        "callingCode": "691"
     },
     {
         "country": "Moldova",
-        "independence": "1991"
+        "callingCode": "373"
     },
     {
         "country": "Monaco",
-        "independence": "1861"
+        "callingCode": "377"
     },
     {
         "country": "Mongolia",
-        "independence": "1921"
+        "callingCode": "976"
     },
     {
         "country": "Montserrat",
-        "independence": null
+        "callingCode": "1664"
     },
     {
         "country": "Morocco",
-        "independence": "1956"
+        "callingCode": "212"
     },
     {
         "country": "Mozambique",
-        "independence": "1975"
+        "callingCode": "258"
     },
     {
         "country": "Myanmar",
-        "independence": "1948"
+        "callingCode": "95"
     },
     {
         "country": "Namibia",
-        "independence": "1990"
+        "callingCode": "264"
     },
     {
         "country": "Nauru",
-        "independence": "1968"
+        "callingCode": "674"
     },
     {
         "country": "Nepal",
-        "independence": "1769"
+        "callingCode": "977"
     },
     {
         "country": "Netherlands",
-        "independence": "1581"
+        "callingCode": "31"
     },
     {
         "country": "Netherlands Antilles",
-        "independence": null
+        "callingCode": null
     },
     {
         "country": "New Caledonia",
-        "independence": null
+        "callingCode": "687"
     },
     {
         "country": "New Zealand",
-        "independence": "1907"
+        "callingCode": "64"
     },
     {
         "country": "Nicaragua",
-        "independence": "1838"
+        "callingCode": "505"
     },
     {
         "country": "Niger",
-        "independence": "1960"
+        "callingCode": "227"
     },
     {
         "country": "Nigeria",
-        "independence": "1960"
+        "callingCode": "234"
     },
     {
         "country": "Niue",
-        "independence": null
+        "callingCode": "683"
     },
     {
         "country": "Norfolk Island",
-        "independence": null
+        "callingCode": "672"
     },
     {
         "country": "North Korea",
-        "independence": "1948"
+        "callingCode": null
     },
     {
         "country": "Northern Ireland",
-        "independence": null
+        "callingCode": null
     },
     {
         "country": "Northern Mariana Islands",
-        "independence": null
+        "callingCode": "1670"
     },
     {
         "country": "Norway",
-        "independence": "1905"
+        "callingCode": "47"
     },
     {
         "country": "Oman",
-        "independence": "1951"
+        "callingCode": "968"
     },
     {
         "country": "Pakistan",
-        "independence": "1947"
+        "callingCode": "92"
     },
     {
         "country": "Palau",
-        "independence": "1994"
+        "callingCode": "680"
     },
     {
         "country": "Palestine",
-        "independence": null
+        "callingCode": null
     },
     {
         "country": "Panama",
-        "independence": "1903"
+        "callingCode": "507"
     },
     {
         "country": "Papua New Guinea",
-        "independence": "1975"
+        "callingCode": "675"
     },
     {
         "country": "Paraguay",
-        "independence": "1811"
+        "callingCode": "595"
     },
     {
         "country": "Peru",
-        "independence": "1821"
+        "callingCode": "51"
     },
     {
         "country": "Philippines",
-        "independence": "1946"
+        "callingCode": "63"
     },
     {
         "country": "Pitcairn",
-        "independence": null
+        "callingCode": null
     },
     {
         "country": "Poland",
-        "independence": "1918"
+        "callingCode": "48"
     },
     {
         "country": "Portugal",
-        "independence": "1143"
+        "callingCode": "351"
     },
     {
         "country": "Puerto Rico",
-        "independence": null
+        "callingCode": "1939"
     },
     {
         "country": "Qatar",
-        "independence": "1971"
+        "callingCode": "974"
     },
     {
         "country": "Reunion",
-        "independence": null
+        "callingCode": "262"
     },
     {
         "country": "Romania",
-        "independence": "1878"
+        "callingCode": "40"
     },
     {
         "country": "Russian Federation",
-        "independence": "1991"
+        "callingCode": "7"
     },
     {
         "country": "Rwanda",
-        "independence": "1962"
+        "callingCode": "250"
     },
     {
         "country": "Saint Helena",
-        "independence": null
+        "callingCode": "290"
     },
     {
         "country": "Saint Kitts and Nevis",
-        "independence": "1983"
+        "callingCode": "1869"
     },
     {
         "country": "Saint Lucia",
-        "independence": "1979"
+        "callingCode": "1758"
     },
     {
         "country": "Saint Pierre and Miquelon",
-        "independence": null
+        "callingCode": "508"
     },
     {
         "country": "Saint Vincent and the Grenadines",
-        "independence": "1979"
+        "callingCode": "1784"
     },
     {
         "country": "Samoa",
-        "independence": "1962"
+        "callingCode": "685"
     },
     {
         "country": "San Marino",
-        "independence": "885"
+        "callingCode": "378"
     },
     {
         "country": "Sao Tome and Principe",
-        "independence": "1975"
+        "callingCode": "239"
     },
     {
         "country": "Saudi Arabia",
-        "independence": "1932"
+        "callingCode": "966"
     },
     {
         "country": "Scotland",
-        "independence": null
+        "callingCode": null
     },
     {
         "country": "Senegal",
-        "independence": "1960"
+        "callingCode": "221"
     },
     {
         "country": "Seychelles",
-        "independence": "1976"
+        "callingCode": "248"
     },
     {
         "country": "Sierra Leone",
-        "independence": "1961"
+        "callingCode": "232"
     },
     {
         "country": "Singapore",
-        "independence": "1965"
+        "callingCode": "65"
     },
     {
         "country": "Slovakia",
-        "independence": "1993"
+        "callingCode": "421"
     },
     {
         "country": "Slovenia",
-        "independence": "1991"
+        "callingCode": "386"
     },
     {
         "country": "Solomon Islands",
-        "independence": "1978"
+        "callingCode": "677"
     },
     {
         "country": "Somalia",
-        "independence": "1960"
+        "callingCode": "252"
     },
     {
         "country": "South Africa",
-        "independence": "1910"
+        "callingCode": "27"
     },
     {
         "country": "South Georgia and the South Sandwich Islands",
-        "independence": null
+        "callingCode": "500"
     },
     {
         "country": "South Korea",
-        "independence": "1948"
+        "callingCode": null
     },
     {
         "country": "South Sudan",
-        "independence": "2011"
+        "callingCode": "211"
     },
     {
         "country": "Spain",
-        "independence": "1492"
+        "callingCode": "34"
     },
     {
         "country": "SriLanka",
-        "independence": null
+        "callingCode": null
     },
     {
         "country": "Sudan",
-        "independence": "1956"
+        "callingCode": "249"
     },
     {
         "country": "Suriname",
-        "independence": "1975"
+        "callingCode": "597"
     },
     {
         "country": "Svalbard and Jan Mayen",
-        "independence": null
+        "callingCode": null
     },
     {
         "country": "Swaziland",
-        "independence": "1968"
+        "callingCode": "268"
     },
     {
         "country": "Sweden",
-        "independence": "836"
+        "callingCode": "46"
     },
     {
         "country": "Switzerland",
-        "independence": "1499"
+        "callingCode": "41"
     },
     {
         "country": "Syria",
-        "independence": "1941"
+        "callingCode": "963"
     },
     {
         "country": "Tajikistan",
-        "independence": "1991"
+        "callingCode": "992"
     },
     {
         "country": "Tanzania",
-        "independence": "1961"
+        "callingCode": "255"
     },
     {
         "country": "Thailand",
-        "independence": "1350"
+        "callingCode": "66"
     },
     {
         "country": "The Democratic Republic of Congo",
-        "independence": null
+        "callingCode": null
     },
     {
         "country": "Togo",
-        "independence": "1960"
+        "callingCode": "228"
     },
     {
         "country": "Tokelau",
-        "independence": null
+        "callingCode": "690"
     },
     {
         "country": "Tonga",
-        "independence": "1970"
+        "callingCode": "676"
     },
     {
         "country": "Trinidad and Tobago",
-        "independence": "1962"
+        "callingCode": "1868"
     },
     {
         "country": "Tunisia",
-        "independence": "1956"
+        "callingCode": "216"
     },
     {
         "country": "Turkey",
-        "independence": "1923"
+        "callingCode": "90"
     },
     {
         "country": "Turkmenistan",
-        "independence": "1991"
+        "callingCode": "993"
     },
     {
         "country": "Turks and Caicos Islands",
-        "independence": null
+        "callingCode": "1649"
     },
     {
         "country": "Tuvalu",
-        "independence": "1978"
+        "callingCode": "688"
     },
     {
         "country": "Uganda",
-        "independence": "1962"
+        "callingCode": "256"
     },
     {
         "country": "Ukraine",
-        "independence": "1991"
+        "callingCode": "380"
     },
     {
         "country": "United Arab Emirates",
-        "independence": "1971"
+        "callingCode": "971"
     },
     {
         "country": "United Kingdom",
-        "independence": "1066"
+        "callingCode": "44"
     },
     {
         "country": "United States",
-        "independence": "1776"
+        "callingCode": "1"
     },
     {
         "country": "United States Minor Outlying Islands",
-        "independence": null
+        "callingCode": null
     },
     {
         "country": "Uruguay",
-        "independence": "1828"
+        "callingCode": "598"
     },
     {
         "country": "Uzbekistan",
-        "independence": "1991"
+        "callingCode": "998"
     },
     {
         "country": "Vanuatu",
-        "independence": "1980"
+        "callingCode": "678"
     },
     {
         "country": "Venezuela",
-        "independence": "1811"
+        "callingCode": "58"
     },
     {
         "country": "Vietnam",
-        "independence": "1945"
+        "callingCode": "84"
     },
     {
         "country": "Virgin Islands, British",
-        "independence": null
+        "callingCode": null
     },
     {
         "country": "Virgin Islands, U.S.",
-        "independence": null
+        "callingCode": null
     },
     {
         "country": "Wales",
-        "independence": null
+        "callingCode": null
     },
     {
         "country": "Wallis and Futuna",
-        "independence": null
+        "callingCode": "681"
     },
     {
         "country": "Western Sahara",
-        "independence": null
+        "callingCode": null
     },
     {
         "country": "Yemen",
-        "independence": "1918"
+        "callingCode": "967"
     },
     {
         "country": "Yugoslavia",
-        "independence": "1918"
+        "callingCode": null
     },
     {
         "country": "Zambia",
-        "independence": "1964"
+        "callingCode": "260"
     },
     {
         "country": "Zimbabwe",
-        "independence": "1980"
+        "callingCode": "263"
     }
 ]

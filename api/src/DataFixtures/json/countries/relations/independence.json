@@ -1,974 +1,974 @@
 [
     {
         "country": "Afghanistan",
-        "city": "Kabul"
+        "date": "1919"
     },
     {
         "country": "Albania",
-        "city": "Tirana"
+        "date": "1912"
     },
     {
         "country": "Algeria",
-        "city": "Alger"
+        "date": "1962"
     },
     {
         "country": "American Samoa",
-        "city": "Fagatogo"
+        "date": null
     },
     {
         "country": "Andorra",
-        "city": "Andorra la Vella"
+        "date": "1278"
     },
     {
         "country": "Angola",
-        "city": "Luanda"
+        "date": "1975"
     },
     {
         "country": "Anguilla",
-        "city": "The Valley"
+        "date": null
     },
     {
         "country": "Antarctica",
-        "city": null
+        "date": null
     },
     {
         "country": "Antigua and Barbuda",
-        "city": "Saint John's"
+        "date": "1981"
     },
     {
         "country": "Argentina",
-        "city": "Buenos Aires"
+        "date": "1816"
     },
     {
         "country": "Armenia",
-        "city": "Yerevan"
+        "date": "1991"
     },
     {
         "country": "Aruba",
-        "city": "Oranjestad"
+        "date": null
     },
     {
         "country": "Australia",
-        "city": "Canberra"
+        "date": "1901"
     },
     {
         "country": "Austria",
-        "city": "Wien"
+        "date": "1918"
     },
     {
         "country": "Azerbaijan",
-        "city": "Baku"
+        "date": "1991"
     },
     {
         "country": "Bahamas",
-        "city": "Nassau"
+        "date": "1973"
     },
     {
         "country": "Bahrain",
-        "city": "al-Manama"
+        "date": "1971"
     },
     {
         "country": "Bangladesh",
-        "city": "Dhaka"
+        "date": "1971"
     },
     {
         "country": "Barbados",
-        "city": "Bridgetown"
+        "date": "1966"
     },
     {
         "country": "Belarus",
-        "city": "Minsk"
+        "date": "1991"
     },
     {
         "country": "Belgium",
-        "city": "Bruxelles [Brussel]"
+        "date": "1830"
     },
     {
         "country": "Belize",
-        "city": "Belmopan"
+        "date": "1981"
     },
     {
         "country": "Benin",
-        "city": "Porto-Novo"
+        "date": "1960"
     },
     {
         "country": "Bermuda",
-        "city": "Hamilton"
+        "date": null
     },
     {
         "country": "Bhutan",
-        "city": "Thimphu"
+        "date": "1910"
     },
     {
         "country": "Bolivia",
-        "city": "La Paz"
+        "date": "1825"
     },
     {
         "country": "Bosnia and Herzegovina",
-        "city": "Sarajevo"
+        "date": "1992"
     },
     {
         "country": "Botswana",
-        "city": "Gaborone"
+        "date": "1966"
     },
     {
         "country": "Bouvet Island",
-        "city": null
+        "date": null
     },
     {
         "country": "Brazil",
-        "city": "Brasília"
+        "date": "1822"
     },
     {
         "country": "British Indian Ocean Territory",
-        "city": null
+        "date": null
     },
     {
         "country": "Brunei",
-        "city": "Bandar Seri Begawan"
+        "date": "1984"
     },
     {
         "country": "Bulgaria",
-        "city": "Sofia"
+        "date": "1908"
     },
     {
         "country": "Burkina Faso",
-        "city": "Ouagadougou"
+        "date": "1960"
     },
     {
         "country": "Burundi",
-        "city": "Bujumbura"
+        "date": "1962"
     },
     {
         "country": "Cambodia",
-        "city": "Phnom Penh"
+        "date": "1953"
     },
     {
         "country": "Cameroon",
-        "city": "Yaound"
+        "date": "1960"
     },
     {
         "country": "Canada",
-        "city": "Ottawa"
+        "date": "1867"
     },
     {
         "country": "Cape Verde",
-        "city": "Praia"
+        "date": "1975"
     },
     {
         "country": "Cayman Islands",
-        "city": "George Town"
+        "date": null
     },
     {
         "country": "Central African Republic",
-        "city": "Bangui"
+        "date": "1960"
     },
     {
         "country": "Chad",
-        "city": "N'Djam"
+        "date": "1960"
     },
     {
         "country": "Chile",
-        "city": "Santiago de Chile"
+        "date": "1810"
     },
     {
         "country": "China",
-        "city": "Peking"
+        "date": "-1523"
     },
     {
         "country": "Christmas Island",
-        "city": "Flying Fish Cove"
+        "date": null
     },
     {
         "country": "Cocos (Keeling) Islands",
-        "city": "West Island"
+        "date": null
     },
     {
         "country": "Colombia",
-        "city": "Santaf"
+        "date": "1810"
     },
     {
         "country": "Comoros",
-        "city": "Moroni"
+        "date": "1975"
     },
     {
         "country": "Congo",
-        "city": "Brazzaville"
+        "date": "1960"
     },
     {
         "country": "Cook Islands",
-        "city": "Avarua"
+        "date": null
     },
     {
         "country": "Costa Rica",
-        "city": "San Jos"
+        "date": "1821"
     },
     {
         "country": "Croatia",
-        "city": "Zagreb"
+        "date": "1991"
     },
     {
         "country": "Cuba",
-        "city": "La Habana"
+        "date": "1902"
     },
     {
         "country": "Cyprus",
-        "city": "Nicosia"
+        "date": "1960"
     },
     {
         "country": "Czech Republic",
-        "city": "Praha"
+        "date": "1993"
     },
     {
         "country": "Denmark",
-        "city": "Copenhagen"
+        "date": "800"
     },
     {
         "country": "Djibouti",
-        "city": "Djibouti"
+        "date": "1977"
     },
     {
         "country": "Dominica",
-        "city": "Roseau"
+        "date": "1978"
     },
     {
         "country": "Dominican Republic",
-        "city": "Santo Domingo de Guzm"
+        "date": "1844"
     },
     {
         "country": "East Timor",
-        "city": "Dili"
+        "date": null
     },
     {
         "country": "Ecuador",
-        "city": "Quito"
+        "date": "1822"
     },
     {
         "country": "Egypt",
-        "city": "Cairo"
+        "date": "1922"
     },
     {
         "country": "El Salvador",
-        "city": "San Salvador"
+        "date": "1841"
     },
     {
         "country": "England",
-        "city": "London"
+        "date": null
     },
     {
         "country": "Equatorial Guinea",
-        "city": "Malabo"
+        "date": "1968"
     },
     {
         "country": "Eritrea",
-        "city": "Asmara"
+        "date": "1993"
     },
     {
         "country": "Estonia",
-        "city": "Tallinn"
+        "date": "1991"
     },
     {
         "country": "Ethiopia",
-        "city": "Addis Abeba"
+        "date": "-1000"
     },
     {
         "country": "Falkland Islands",
-        "city": "Stanley"
+        "date": null
     },
     {
         "country": "Faroe Islands",
-        "city": "Tórshavn"
+        "date": null
     },
     {
         "country": "Fiji Islands",
-        "city": "Suva"
+        "date": "1970"
     },
     {
         "country": "Finland",
-        "city": "Helsinki [Helsingfors]"
+        "date": "1917"
     },
     {
         "country": "France",
-        "city": "Paris"
+        "date": "843"
     },
     {
         "country": "French Guiana",
-        "city": "Cayenne"
+        "date": null
     },
     {
         "country": "French Polynesia",
-        "city": "Papeete"
+        "date": null
     },
     {
         "country": "French Southern territories",
-        "city": null
+        "date": null
     },
     {
         "country": "Gabon",
-        "city": "Libreville"
+        "date": "1960"
     },
     {
         "country": "Gambia",
-        "city": "Banjul"
+        "date": "1965"
     },
     {
         "country": "Georgia",
-        "city": "Tbilisi"
+        "date": "1991"
     },
     {
         "country": "Germany",
-        "city": "Berlin"
+        "date": "1955"
     },
     {
         "country": "Ghana",
-        "city": "Accra"
+        "date": "1957"
     },
     {
         "country": "Gibraltar",
-        "city": "Gibraltar"
+        "date": null
     },
     {
         "country": "Greece",
-        "city": "Athenai"
+        "date": "1830"
     },
     {
         "country": "Greenland",
-        "city": "Nuuk"
+        "date": null
     },
     {
         "country": "Grenada",
-        "city": "Saint George's"
+        "date": "1974"
     },
     {
         "country": "Guadeloupe",
-        "city": "Basse-Terre"
+        "date": null
     },
     {
         "country": "Guam",
-        "city": "Aga"
+        "date": null
     },
     {
         "country": "Guatemala",
-        "city": "Ciudad de Guatemala"
+        "date": "1821"
     },
     {
         "country": "Guinea",
-        "city": "Conakry"
+        "date": "1958"
     },
     {
         "country": "Guinea-Bissau",
-        "city": "Bissau"
+        "date": "1974"
     },
     {
         "country": "Guyana",
-        "city": "Georgetown"
+        "date": "1966"
     },
     {
         "country": "Haiti",
-        "city": "Port-au-Prince"
+        "date": "1804"
     },
     {
         "country": "Heard Island and McDonald Islands",
-        "city": null
+        "date": null
     },
     {
         "country": "Holy See (Vatican City State)",
-        "city": "Citt"
+        "date": "1929"
     },
     {
         "country": "Honduras",
-        "city": "Tegucigalpa"
+        "date": "1838"
     },
     {
         "country": "Hong Kong",
-        "city": "Victoria"
+        "date": null
     },
     {
         "country": "Hungary",
-        "city": "Budapest"
+        "date": "1918"
     },
     {
         "country": "Iceland",
-        "city": "Reykjav"
+        "date": "1944"
     },
     {
         "country": "India",
-        "city": "New Delhi"
+        "date": "1947"
     },
     {
         "country": "Indonesia",
-        "city": "Jakarta"
+        "date": "1945"
     },
     {
         "country": "Iran",
-        "city": "Tehran"
+        "date": "1906"
     },
     {
         "country": "Iraq",
-        "city": "Baghdad"
+        "date": "1932"
     },
     {
         "country": "Ireland",
-        "city": "Dublin"
+        "date": "1921"
     },
     {
         "country": "Israel",
-        "city": "Jerusalem"
+        "date": "1948"
     },
     {
         "country": "Italy",
-        "city": "Roma"
+        "date": "1861"
     },
     {
         "country": "Ivory Coast",
-        "city": "Yamoussoukro"
+        "date": "1960"
     },
     {
         "country": "Jamaica",
-        "city": "Kingston"
+        "date": "1962"
     },
     {
         "country": "Japan",
-        "city": "Tokyo"
+        "date": "-660"
     },
     {
         "country": "Jordan",
-        "city": "Amman"
+        "date": "1946"
     },
     {
         "country": "Kazakhstan",
-        "city": "Astana"
+        "date": "1991"
     },
     {
         "country": "Kenya",
-        "city": "Nairobi"
+        "date": "1963"
     },
     {
         "country": "Kiribati",
-        "city": "Bairiki"
+        "date": "1979"
     },
     {
         "country": "Kuwait",
-        "city": "Kuwait"
+        "date": "1961"
     },
     {
         "country": "Kyrgyzstan",
-        "city": "Bishkek"
+        "date": "1991"
     },
     {
         "country": "Laos",
-        "city": "Vientiane"
+        "date": "1953"
     },
     {
         "country": "Latvia",
-        "city": "Riga"
+        "date": "1991"
     },
     {
         "country": "Lebanon",
-        "city": "Beirut"
+        "date": "1941"
     },
     {
         "country": "Lesotho",
-        "city": "Maseru"
+        "date": "1966"
     },
     {
         "country": "Liberia",
-        "city": "Monrovia"
+        "date": "1847"
     },
     {
         "country": "Libyan Arab Jamahiriya",
-        "city": "Tripoli"
+        "date": "1951"
     },
     {
         "country": "Liechtenstein",
-        "city": "Vaduz"
+        "date": "1806"
     },
     {
         "country": "Lithuania",
-        "city": "Vilnius"
+        "date": "1991"
     },
     {
         "country": "Luxembourg",
-        "city": "Luxembourg [Luxemburg/L"
+        "date": "1867"
     },
     {
         "country": "Macao",
-        "city": "Macao"
+        "date": null
     },
     {
         "country": "North Macedonia",
-        "city": "Skopje"
+        "date": "1991"
     },
     {
         "country": "Madagascar",
-        "city": "Antananarivo"
+        "date": "1960"
     },
     {
         "country": "Malawi",
-        "city": "Lilongwe"
+        "date": "1964"
     },
     {
         "country": "Malaysia",
-        "city": "Kuala Lumpur"
+        "date": "1957"
     },
     {
         "country": "Maldives",
-        "city": "Male"
+        "date": "1965"
     },
     {
         "country": "Mali",
-        "city": "Bamako"
+        "date": "1960"
     },
     {
         "country": "Malta",
-        "city": "Valletta"
+        "date": "1964"
     },
     {
         "country": "Marshall Islands",
-        "city": "Dalap-Uliga-Darrit"
+        "date": "1990"
     },
     {
         "country": "Martinique",
-        "city": "Fort-de-France"
+        "date": null
     },
     {
         "country": "Mauritania",
-        "city": "Nouakchott"
+        "date": "1960"
     },
     {
         "country": "Mauritius",
-        "city": "Port-Louis"
+        "date": "1968"
     },
     {
         "country": "Mayotte",
-        "city": "Mamoutzou"
+        "date": null
     },
     {
         "country": "Mexico",
-        "city": "Ciudad de M"
+        "date": "1810"
     },
     {
         "country": "Micronesia, Federated States of",
-        "city": "Palikir"
+        "date": "1990"
     },
     {
         "country": "Moldova",
-        "city": "Chisinau"
+        "date": "1991"
     },
     {
         "country": "Monaco",
-        "city": "Monaco-Ville"
+        "date": "1861"
     },
     {
         "country": "Mongolia",
-        "city": "Ulan Bator"
+        "date": "1921"
     },
     {
         "country": "Montserrat",
-        "city": "Plymouth"
+        "date": null
     },
     {
         "country": "Morocco",
-        "city": "Rabat"
+        "date": "1956"
     },
     {
         "country": "Mozambique",
-        "city": "Maputo"
+        "date": "1975"
     },
     {
         "country": "Myanmar",
-        "city": "Rangoon (Yangon)"
+        "date": "1948"
     },
     {
         "country": "Namibia",
-        "city": "Windhoek"
+        "date": "1990"
     },
     {
         "country": "Nauru",
-        "city": "Yaren"
+        "date": "1968"
     },
     {
         "country": "Nepal",
-        "city": "Kathmandu"
+        "date": "1769"
     },
     {
         "country": "Netherlands",
-        "city": "Amsterdam"
+        "date": "1581"
     },
     {
         "country": "Netherlands Antilles",
-        "city": "Willemstad"
+        "date": null
     },
     {
         "country": "New Caledonia",
-        "city": "Noum"
+        "date": null
     },
     {
         "country": "New Zealand",
-        "city": "Wellington"
+        "date": "1907"
     },
     {
         "country": "Nicaragua",
-        "city": "Managua"
+        "date": "1838"
     },
     {
         "country": "Niger",
-        "city": "Niamey"
+        "date": "1960"
     },
     {
         "country": "Nigeria",
-        "city": "Abuja"
+        "date": "1960"
     },
     {
         "country": "Niue",
-        "city": "Alofi"
+        "date": null
     },
     {
         "country": "Norfolk Island",
-        "city": "Kingston"
+        "date": null
     },
     {
         "country": "North Korea",
-        "city": "Pyongyang"
+        "date": "1948"
     },
     {
         "country": "Northern Ireland",
-        "city": "Belfast"
+        "date": null
     },
     {
         "country": "Northern Mariana Islands",
-        "city": "Garapan"
+        "date": null
     },
     {
         "country": "Norway",
-        "city": "Oslo"
+        "date": "1905"
     },
     {
         "country": "Oman",
-        "city": "Masqat"
+        "date": "1951"
     },
     {
         "country": "Pakistan",
-        "city": "Islamabad"
+        "date": "1947"
     },
     {
         "country": "Palau",
-        "city": "Koror"
+        "date": "1994"
     },
     {
         "country": "Palestine",
-        "city": "Gaza"
+        "date": null
     },
     {
         "country": "Panama",
-        "city": "Ciudad de Panam"
+        "date": "1903"
     },
     {
         "country": "Papua New Guinea",
-        "city": "Port Moresby"
+        "date": "1975"
     },
     {
         "country": "Paraguay",
-        "city": "Asunci"
+        "date": "1811"
     },
     {
         "country": "Peru",
-        "city": "Lima"
+        "date": "1821"
     },
     {
         "country": "Philippines",
-        "city": "Manila"
+        "date": "1946"
     },
     {
         "country": "Pitcairn",
-        "city": "Adamstown"
+        "date": null
     },
     {
         "country": "Poland",
-        "city": "Warszawa"
+        "date": "1918"
     },
     {
         "country": "Portugal",
-        "city": "Lisboa"
+        "date": "1143"
     },
     {
         "country": "Puerto Rico",
-        "city": "San Juan"
+        "date": null
     },
     {
         "country": "Qatar",
-        "city": "Doha"
+        "date": "1971"
     },
     {
         "country": "Reunion",
-        "city": "Saint-Denis"
+        "date": null
     },
     {
         "country": "Romania",
-        "city": "Bucuresti"
+        "date": "1878"
     },
     {
         "country": "Russian Federation",
-        "city": "Moscow"
+        "date": "1991"
     },
     {
         "country": "Rwanda",
-        "city": "Kigali"
+        "date": "1962"
     },
     {
         "country": "Saint Helena",
-        "city": "Jamestown"
+        "date": null
     },
     {
         "country": "Saint Kitts and Nevis",
-        "city": "Basseterre"
+        "date": "1983"
     },
     {
         "country": "Saint Lucia",
-        "city": "Castries"
+        "date": "1979"
     },
     {
         "country": "Saint Pierre and Miquelon",
-        "city": "Saint-Pierre"
+        "date": null
     },
     {
         "country": "Saint Vincent and the Grenadines",
-        "city": "Kingstown"
+        "date": "1979"
     },
     {
         "country": "Samoa",
-        "city": "Apia"
+        "date": "1962"
     },
     {
         "country": "San Marino",
-        "city": "San Marino"
+        "date": "885"
     },
     {
         "country": "Sao Tome and Principe",
-        "city": "S"
+        "date": "1975"
     },
     {
         "country": "Saudi Arabia",
-        "city": "Riyadh"
+        "date": "1932"
     },
     {
         "country": "Scotland",
-        "city": "Edinburgh"
+        "date": null
     },
     {
         "country": "Senegal",
-        "city": "Dakar"
+        "date": "1960"
     },
     {
         "country": "Seychelles",
-        "city": "Victoria"
+        "date": "1976"
     },
     {
         "country": "Sierra Leone",
-        "city": "Freetown"
+        "date": "1961"
     },
     {
         "country": "Singapore",
-        "city": "Singapore"
+        "date": "1965"
     },
     {
         "country": "Slovakia",
-        "city": "Bratislava"
+        "date": "1993"
     },
     {
         "country": "Slovenia",
-        "city": "Ljubljana"
+        "date": "1991"
     },
     {
         "country": "Solomon Islands",
-        "city": "Honiara"
+        "date": "1978"
     },
     {
         "country": "Somalia",
-        "city": "Mogadishu"
+        "date": "1960"
     },
     {
         "country": "South Africa",
-        "city": "Pretoria"
+        "date": "1910"
     },
     {
         "country": "South Georgia and the South Sandwich Islands",
-        "city": null
+        "date": null
     },
     {
         "country": "South Korea",
-        "city": "Seoul"
+        "date": "1948"
     },
     {
         "country": "South Sudan",
-        "city": "Juba"
+        "date": "2011"
     },
     {
         "country": "Spain",
-        "city": "Madrid"
+        "date": "1492"
     },
     {
         "country": "SriLanka",
-        "city": null
+        "date": null
     },
     {
         "country": "Sudan",
-        "city": "Khartum"
+        "date": "1956"
     },
     {
         "country": "Suriname",
-        "city": "Paramaribo"
+        "date": "1975"
     },
     {
         "country": "Svalbard and Jan Mayen",
-        "city": "Longyearbyen"
+        "date": null
     },
     {
         "country": "Swaziland",
-        "city": "Mbabane"
+        "date": "1968"
     },
     {
         "country": "Sweden",
-        "city": "Stockholm"
+        "date": "836"
     },
     {
         "country": "Switzerland",
-        "city": "Bern"
+        "date": "1499"
     },
     {
         "country": "Syria",
-        "city": "Damascus"
+        "date": "1941"
     },
     {
         "country": "Tajikistan",
-        "city": "Dushanbe"
+        "date": "1991"
     },
     {
         "country": "Tanzania",
-        "city": "Dodoma"
+        "date": "1961"
     },
     {
         "country": "Thailand",
-        "city": "Bangkok"
+        "date": "1350"
     },
     {
         "country": "The Democratic Republic of Congo",
-        "city": null
+        "date": null
     },
     {
         "country": "Togo",
-        "city": "Lom"
+        "date": "1960"
     },
     {
         "country": "Tokelau",
-        "city": "Fakaofo"
+        "date": null
     },
     {
         "country": "Tonga",
-        "city": "Nuku'alofa"
+        "date": "1970"
     },
     {
         "country": "Trinidad and Tobago",
-        "city": "Port-of-Spain"
+        "date": "1962"
     },
     {
         "country": "Tunisia",
-        "city": "Tunis"
+        "date": "1956"
     },
     {
         "country": "Turkey",
-        "city": "Ankara"
+        "date": "1923"
     },
     {
         "country": "Turkmenistan",
-        "city": "Ashgabat"
+        "date": "1991"
     },
     {
         "country": "Turks and Caicos Islands",
-        "city": "Cockburn Town"
+        "date": null
     },
     {
         "country": "Tuvalu",
-        "city": "Funafuti"
+        "date": "1978"
     },
     {
         "country": "Uganda",
-        "city": "Kampala"
+        "date": "1962"
     },
     {
         "country": "Ukraine",
-        "city": "Kyiv"
+        "date": "1991"
     },
     {
         "country": "United Arab Emirates",
-        "city": "Abu Dhabi"
+        "date": "1971"
     },
     {
         "country": "United Kingdom",
-        "city": "London"
+        "date": "1066"
     },
     {
         "country": "United States",
-        "city": "Washington"
+        "date": "1776"
     },
     {
         "country": "United States Minor Outlying Islands",
-        "city": null
+        "date": null
     },
     {
         "country": "Uruguay",
-        "city": "Montevideo"
+        "date": "1828"
     },
     {
         "country": "Uzbekistan",
-        "city": "Toskent"
+        "date": "1991"
     },
     {
         "country": "Vanuatu",
-        "city": "Port-Vila"
+        "date": "1980"
     },
     {
         "country": "Venezuela",
-        "city": "Caracas"
+        "date": "1811"
     },
     {
         "country": "Vietnam",
-        "city": "Hanoi"
+        "date": "1945"
     },
     {
         "country": "Virgin Islands, British",
-        "city": "Road Town"
+        "date": null
     },
     {
         "country": "Virgin Islands, U.S.",
-        "city": "Charlotte Amalie"
+        "date": null
     },
     {
         "country": "Wales",
-        "city": "Cardiff"
+        "date": null
     },
     {
         "country": "Wallis and Futuna",
-        "city": "Mata-Utu"
+        "date": null
     },
     {
         "country": "Western Sahara",
-        "city": "El-Aai"
+        "date": null
     },
     {
         "country": "Yemen",
-        "city": "Sanaa"
+        "date": "1918"
     },
     {
         "country": "Yugoslavia",
-        "city": "Beograd"
+        "date": "1918"
     },
     {
         "country": "Zambia",
-        "city": "Lusaka"
+        "date": "1964"
     },
     {
         "country": "Zimbabwe",
-        "city": "Harare"
+        "date": "1980"
     }
 ]

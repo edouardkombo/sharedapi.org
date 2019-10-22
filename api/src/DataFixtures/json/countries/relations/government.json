@@ -1,974 +1,974 @@
 [
     {
         "country": "Afghanistan",
-        "location": "Southern and Central Asia"
+        "name": "Islamic Emirate"
     },
     {
         "country": "Albania",
-        "location": "Southern Europe"
+        "name": "Republic"
     },
     {
         "country": "Algeria",
-        "location": "Northern Africa"
+        "name": "Republic"
     },
     {
         "country": "American Samoa",
-        "location": "Polynesia"
+        "name": "US Territory"
     },
     {
         "country": "Andorra",
-        "location": "Southern Europe"
+        "name": "Parliamentary Coprincipality"
     },
     {
         "country": "Angola",
-        "location": "Central Africa"
+        "name": "Republic"
     },
     {
         "country": "Anguilla",
-        "location": "Caribbean"
+        "name": "Dependent Territory of the UK"
     },
     {
         "country": "Antarctica",
-        "location": "Antarctica"
+        "name": "Co-administrated"
     },
     {
         "country": "Antigua and Barbuda",
-        "location": "Caribbean"
+        "name": "Constitutional Monarchy"
     },
     {
         "country": "Argentina",
-        "location": "South America"
+        "name": "Federal Republic"
     },
     {
         "country": "Armenia",
-        "location": "Middle East"
+        "name": "Republic"
     },
     {
         "country": "Aruba",
-        "location": "Caribbean"
+        "name": "Nonmetropolitan Territory of The Netherlands"
     },
     {
         "country": "Australia",
-        "location": "Australia and New Zealand"
+        "name": "Federation Constitutional Monarchy"
     },
     {
         "country": "Austria",
-        "location": "Western Europe"
+        "name": "Federal Republic"
     },
     {
         "country": "Azerbaijan",
-        "location": "Middle East"
+        "name": "Federal Republic"
     },
     {
         "country": "Bahamas",
-        "location": "Caribbean"
+        "name": "Constitutional Monarchy"
     },
     {
         "country": "Bahrain",
-        "location": "Middle East"
+        "name": "Monarchy (Emirate)"
     },
     {
         "country": "Bangladesh",
-        "location": "Southern and Central Asia"
+        "name": "Republic"
     },
     {
         "country": "Barbados",
-        "location": "Caribbean"
+        "name": "Constitutional Monarchy"
     },
     {
         "country": "Belarus",
-        "location": "Eastern Europe"
+        "name": "Republic"
     },
     {
         "country": "Belgium",
-        "location": "Western Europe"
+        "name": "Federation Constitutional Monarchy"
     },
     {
         "country": "Belize",
-        "location": "Central America"
+        "name": "Constitutional Monarchy"
     },
     {
         "country": "Benin",
-        "location": "Western Africa"
+        "name": "Republic"
     },
     {
         "country": "Bermuda",
-        "location": "North America"
+        "name": "Dependent Territory of the UK"
     },
     {
         "country": "Bhutan",
-        "location": "Southern and Central Asia"
+        "name": "Monarchy"
     },
     {
         "country": "Bolivia",
-        "location": "South America"
+        "name": "Republic"
     },
     {
         "country": "Bosnia and Herzegovina",
-        "location": "Southern Europe"
+        "name": "Federal Republic"
     },
     {
         "country": "Botswana",
-        "location": "Southern Africa"
+        "name": "Republic"
     },
     {
         "country": "Bouvet Island",
-        "location": "Antarctica"
+        "name": "Dependent Territory of Norway"
     },
     {
         "country": "Brazil",
-        "location": "South America"
+        "name": "Federal Republic"
     },
     {
         "country": "British Indian Ocean Territory",
-        "location": "Eastern Africa"
+        "name": "Dependent Territory of the UK"
     },
     {
         "country": "Brunei",
-        "location": "Southeast Asia"
+        "name": "Monarchy (Sultanate)"
     },
     {
         "country": "Bulgaria",
-        "location": "Eastern Europe"
+        "name": "Republic"
     },
     {
         "country": "Burkina Faso",
-        "location": "Western Africa"
+        "name": "Republic"
     },
     {
         "country": "Burundi",
-        "location": "Eastern Africa"
+        "name": "Republic"
     },
     {
         "country": "Cambodia",
-        "location": "Southeast Asia"
+        "name": "Constitutional Monarchy"
     },
     {
         "country": "Cameroon",
-        "location": "Central Africa"
+        "name": "Republic"
     },
     {
         "country": "Canada",
-        "location": "North America"
+        "name": "Constitutional Monarchy, Federation"
     },
     {
         "country": "Cape Verde",
-        "location": "Western Africa"
+        "name": "Republic"
     },
     {
         "country": "Cayman Islands",
-        "location": "Caribbean"
+        "name": "Dependent Territory of the UK"
     },
     {
         "country": "Central African Republic",
-        "location": "Central Africa"
+        "name": "Republic"
     },
     {
         "country": "Chad",
-        "location": "Central Africa"
+        "name": "Republic"
     },
     {
         "country": "Chile",
-        "location": "South America"
+        "name": "Republic"
     },
     {
         "country": "China",
-        "location": "Eastern Asia"
+        "name": "People's Republic"
     },
     {
         "country": "Christmas Island",
-        "location": "Australia and New Zealand"
+        "name": "Territory of Australia"
     },
     {
         "country": "Cocos (Keeling) Islands",
-        "location": "Australia and New Zealand"
+        "name": "Territory of Australia"
     },
     {
         "country": "Colombia",
-        "location": "South America"
+        "name": "Republic"
     },
     {
         "country": "Comoros",
-        "location": "Eastern Africa"
+        "name": "Republic"
     },
     {
         "country": "Congo",
-        "location": "Central Africa"
+        "name": "Republic"
     },
     {
         "country": "Cook Islands",
-        "location": "Polynesia"
+        "name": "Nonmetropolitan Territory of New Zealand"
     },
     {
         "country": "Costa Rica",
-        "location": "Central America"
+        "name": "Republic"
     },
     {
         "country": "Croatia",
-        "location": "Southern Europe"
+        "name": "Republic"
     },
     {
         "country": "Cuba",
-        "location": "Caribbean"
+        "name": "Socialistic Republic"
     },
     {
         "country": "Cyprus",
-        "location": "Middle East"
+        "name": "Republic"
     },
     {
         "country": "Czech Republic",
-        "location": "Eastern Europe"
+        "name": "Republic"
     },
     {
         "country": "Denmark",
-        "location": "Nordic Countries"
+        "name": "Constitutional Monarchy"
     },
     {
         "country": "Djibouti",
-        "location": "Eastern Africa"
+        "name": "Republic"
     },
     {
         "country": "Dominica",
-        "location": "Caribbean"
+        "name": "Republic"
     },
     {
         "country": "Dominican Republic",
-        "location": "Caribbean"
+        "name": "Republic"
     },
     {
         "country": "East Timor",
-        "location": "Southeast Asia"
+        "name": "Administrated by the UN"
     },
     {
         "country": "Ecuador",
-        "location": "South America"
+        "name": "Republic"
     },
     {
         "country": "Egypt",
-        "location": "Northern Africa"
+        "name": "Republic"
     },
     {
         "country": "El Salvador",
-        "location": "Central America"
+        "name": "Republic"
     },
     {
         "country": "England",
-        "location": null
+        "name": null
     },
     {
         "country": "Equatorial Guinea",
-        "location": "Central Africa"
+        "name": "Republic"
     },
     {
         "country": "Eritrea",
-        "location": "Eastern Africa"
+        "name": "Republic"
     },
     {
         "country": "Estonia",
-        "location": "Baltic Countries"
+        "name": "Republic"
     },
     {
         "country": "Ethiopia",
-        "location": "Eastern Africa"
+        "name": "Republic"
     },
     {
         "country": "Falkland Islands",
-        "location": "South America"
+        "name": "Dependent Territory of the UK"
     },
     {
         "country": "Faroe Islands",
-        "location": "Nordic Countries"
+        "name": "Part of Denmark"
     },
     {
         "country": "Fiji Islands",
-        "location": "Melanesia"
+        "name": "Republic"
     },
     {
         "country": "Finland",
-        "location": "Nordic Countries"
+        "name": "Republic"
     },
     {
         "country": "France",
-        "location": "Western Europe"
+        "name": "Republic"
     },
     {
         "country": "French Guiana",
-        "location": "South America"
+        "name": "Overseas Department of France"
     },
     {
         "country": "French Polynesia",
-        "location": "Polynesia"
+        "name": "Nonmetropolitan Territory of France"
     },
     {
         "country": "French Southern territories",
-        "location": "Antarctica"
+        "name": "Nonmetropolitan Territory of France"
     },
     {
         "country": "Gabon",
-        "location": "Central Africa"
+        "name": "Republic"
     },
     {
         "country": "Gambia",
-        "location": "Western Africa"
+        "name": "Republic"
     },
     {
         "country": "Georgia",
-        "location": "Middle East"
+        "name": "Republic"
     },
     {
         "country": "Germany",
-        "location": "Western Europe"
+        "name": "Federal Republic"
     },
     {
         "country": "Ghana",
-        "location": "Western Africa"
+        "name": "Republic"
     },
     {
         "country": "Gibraltar",
-        "location": "Southern Europe"
+        "name": "Dependent Territory of the UK"
     },
     {
         "country": "Greece",
-        "location": "Southern Europe"
+        "name": "Republic"
     },
     {
         "country": "Greenland",
-        "location": "North America"
+        "name": "Part of Denmark"
     },
     {
         "country": "Grenada",
-        "location": "Caribbean"
+        "name": "Constitutional Monarchy"
     },
     {
         "country": "Guadeloupe",
-        "location": "Caribbean"
+        "name": "Overseas Department of France"
     },
     {
         "country": "Guam",
-        "location": "Micronesia"
+        "name": "US Territory"
     },
     {
         "country": "Guatemala",
-        "location": "Central America"
+        "name": "Republic"
     },
     {
         "country": "Guinea",
-        "location": "Western Africa"
+        "name": "Republic"
     },
     {
         "country": "Guinea-Bissau",
-        "location": "Western Africa"
+        "name": "Republic"
     },
     {
         "country": "Guyana",
-        "location": "South America"
+        "name": "Republic"
     },
     {
         "country": "Haiti",
-        "location": "Caribbean"
+        "name": "Republic"
     },
     {
         "country": "Heard Island and McDonald Islands",
-        "location": "Antarctica"
+        "name": "Territory of Australia"
     },
     {
         "country": "Holy See (Vatican City State)",
-        "location": "Southern Europe"
+        "name": "Independent Church State"
     },
     {
         "country": "Honduras",
-        "location": "Central America"
+        "name": "Republic"
     },
     {
         "country": "Hong Kong",
-        "location": "Eastern Asia"
+        "name": "Special Administrative Region of China"
     },
     {
         "country": "Hungary",
-        "location": "Eastern Europe"
+        "name": "Republic"
     },
     {
         "country": "Iceland",
-        "location": "Nordic Countries"
+        "name": "Republic"
     },
     {
         "country": "India",
-        "location": "Southern and Central Asia"
+        "name": "Federal Republic"
     },
     {
         "country": "Indonesia",
-        "location": "Southeast Asia"
+        "name": "Republic"
     },
     {
         "country": "Iran",
-        "location": "Southern and Central Asia"
+        "name": "Islamic Republic"
     },
     {
         "country": "Iraq",
-        "location": "Middle East"
+        "name": "Republic"
     },
     {
         "country": "Ireland",
-        "location": "British Isles"
+        "name": "Republic"
     },
     {
         "country": "Israel",
-        "location": "Middle East"
+        "name": "Republic"
     },
     {
         "country": "Italy",
-        "location": "Southern Europe"
+        "name": "Republic"
     },
     {
         "country": "Ivory Coast",
-        "location": "Western Africa"
+        "name": "Republic"
     },
     {
         "country": "Jamaica",
-        "location": "Caribbean"
+        "name": "Constitutional Monarchy"
     },
     {
         "country": "Japan",
-        "location": "Eastern Asia"
+        "name": "Constitutional Monarchy"
     },
     {
         "country": "Jordan",
-        "location": "Middle East"
+        "name": "Constitutional Monarchy"
     },
     {
         "country": "Kazakhstan",
-        "location": "Southern and Central Asia"
+        "name": "Republic"
     },
     {
         "country": "Kenya",
-        "location": "Eastern Africa"
+        "name": "Republic"
     },
     {
         "country": "Kiribati",
-        "location": "Micronesia"
+        "name": "Republic"
     },
     {
         "country": "Kuwait",
-        "location": "Middle East"
+        "name": "Constitutional Monarchy (Emirate)"
     },
     {
         "country": "Kyrgyzstan",
-        "location": "Southern and Central Asia"
+        "name": "Republic"
     },
     {
         "country": "Laos",
-        "location": "Southeast Asia"
+        "name": "Republic"
     },
     {
         "country": "Latvia",
-        "location": "Baltic Countries"
+        "name": "Republic"
     },
     {
         "country": "Lebanon",
-        "location": "Middle East"
+        "name": "Republic"
     },
     {
         "country": "Lesotho",
-        "location": "Southern Africa"
+        "name": "Constitutional Monarchy"
     },
     {
         "country": "Liberia",
-        "location": "Western Africa"
+        "name": "Republic"
     },
     {
         "country": "Libyan Arab Jamahiriya",
-        "location": "Northern Africa"
+        "name": "Socialistic State"
     },
     {
         "country": "Liechtenstein",
-        "location": "Western Europe"
+        "name": "Constitutional Monarchy"
     },
     {
         "country": "Lithuania",
-        "location": "Baltic Countries"
+        "name": "Republic"
     },
     {
         "country": "Luxembourg",
-        "location": "Western Europe"
+        "name": "Constitutional Monarchy"
     },
     {
         "country": "Macao",
-        "location": "Eastern Asia"
+        "name": "Special Administrative Region of China"
     },
     {
         "country": "North Macedonia",
-        "location": "Southern Europe"
+        "name": "Republic"
     },
     {
         "country": "Madagascar",
-        "location": "Eastern Africa"
+        "name": "Federal Republic"
     },
     {
         "country": "Malawi",
-        "location": "Eastern Africa"
+        "name": "Republic"
     },
     {
         "country": "Malaysia",
-        "location": "Southeast Asia"
+        "name": "Constitutional Monarchy"
     },
     {
         "country": "Maldives",
-        "location": "Southern and Central Asia"
+        "name": "Republic"
     },
     {
         "country": "Mali",
-        "location": "Western Africa"
+        "name": "Republic"
     },
     {
         "country": "Malta",
-        "location": "Southern Europe"
+        "name": "Republic"
     },
     {
         "country": "Marshall Islands",
-        "location": "Micronesia"
+        "name": "Republic"
     },
     {
         "country": "Martinique",
-        "location": "Caribbean"
+        "name": "Overseas Department of France"
     },
     {
         "country": "Mauritania",
-        "location": "Western Africa"
+        "name": "Republic"
     },
     {
         "country": "Mauritius",
-        "location": "Eastern Africa"
+        "name": "Republic"
     },
     {
         "country": "Mayotte",
-        "location": "Eastern Africa"
+        "name": "Territorial Collectivity of France"
     },
     {
         "country": "Mexico",
-        "location": "Central America"
+        "name": "Federal Republic"
     },
     {
         "country": "Micronesia, Federated States of",
-        "location": "Micronesia"
+        "name": "Federal Republic"
     },
     {
         "country": "Moldova",
-        "location": "Eastern Europe"
+        "name": "Republic"
     },
     {
         "country": "Monaco",
-        "location": "Western Europe"
+        "name": "Constitutional Monarchy"
     },
     {
         "country": "Mongolia",
-        "location": "Eastern Asia"
+        "name": "Republic"
     },
     {
         "country": "Montserrat",
-        "location": "Caribbean"
+        "name": "Dependent Territory of the UK"
     },
     {
         "country": "Morocco",
-        "location": "Northern Africa"
+        "name": "Constitutional Monarchy"
     },
     {
         "country": "Mozambique",
-        "location": "Eastern Africa"
+        "name": "Republic"
     },
     {
         "country": "Myanmar",
-        "location": "Southeast Asia"
+        "name": "Republic"
     },
     {
         "country": "Namibia",
-        "location": "Southern Africa"
+        "name": "Republic"
     },
     {
         "country": "Nauru",
-        "location": "Micronesia"
+        "name": "Republic"
     },
     {
         "country": "Nepal",
-        "location": "Southern and Central Asia"
+        "name": "Federal parliamentary republic"
     },
     {
         "country": "Netherlands",
-        "location": "Western Europe"
+        "name": "Constitutional Monarchy"
     },
     {
         "country": "Netherlands Antilles",
-        "location": "Caribbean"
+        "name": "Nonmetropolitan Territory of The Netherlands"
     },
     {
         "country": "New Caledonia",
-        "location": "Melanesia"
+        "name": "Nonmetropolitan Territory of France"
     },
     {
         "country": "New Zealand",
-        "location": "Australia and New Zealand"
+        "name": "Constitutional Monarchy"
     },
     {
         "country": "Nicaragua",
-        "location": "Central America"
+        "name": "Republic"
     },
     {
         "country": "Niger",
-        "location": "Western Africa"
+        "name": "Republic"
     },
     {
         "country": "Nigeria",
-        "location": "Western Africa"
+        "name": "Federal Republic"
     },
     {
         "country": "Niue",
-        "location": "Polynesia"
+        "name": "Nonmetropolitan Territory of New Zealand"
     },
     {
         "country": "Norfolk Island",
-        "location": "Australia and New Zealand"
+        "name": "Territory of Australia"
     },
     {
         "country": "North Korea",
-        "location": "Eastern Asia"
+        "name": "Socialistic Republic"
     },
     {
         "country": "Northern Ireland",
-        "location": null
+        "name": null
     },
     {
         "country": "Northern Mariana Islands",
-        "location": "Micronesia"
+        "name": "Commonwealth of the US"
     },
     {
         "country": "Norway",
-        "location": "Nordic Countries"
+        "name": "Constitutional Monarchy"
     },
     {
         "country": "Oman",
-        "location": "Middle East"
+        "name": "Monarchy (Sultanate)"
     },
     {
         "country": "Pakistan",
-        "location": "Southern and Central Asia"
+        "name": "Republic"
     },
     {
         "country": "Palau",
-        "location": "Micronesia"
+        "name": "Republic"
     },
     {
         "country": "Palestine",
-        "location": "Middle East"
+        "name": "Autonomous Area"
     },
     {
         "country": "Panama",
-        "location": "Central America"
+        "name": "Republic"
     },
     {
         "country": "Papua New Guinea",
-        "location": "Melanesia"
+        "name": "Constitutional Monarchy"
     },
     {
         "country": "Paraguay",
-        "location": "South America"
+        "name": "Republic"
     },
     {
         "country": "Peru",
-        "location": "South America"
+        "name": "Republic"
     },
     {
         "country": "Philippines",
-        "location": "Southeast Asia"
+        "name": "Republic"
     },
     {
         "country": "Pitcairn",
-        "location": "Polynesia"
+        "name": "Dependent Territory of the UK"
     },
     {
         "country": "Poland",
-        "location": "Eastern Europe"
+        "name": "Republic"
     },
     {
         "country": "Portugal",
-        "location": "Southern Europe"
+        "name": "Republic"
     },
     {
         "country": "Puerto Rico",
-        "location": "Caribbean"
+        "name": "Commonwealth of the US"
     },
     {
         "country": "Qatar",
-        "location": "Middle East"
+        "name": "Monarchy"
     },
     {
         "country": "Reunion",
-        "location": "Eastern Africa"
+        "name": "Overseas Department of France"
     },
     {
         "country": "Romania",
-        "location": "Eastern Europe"
+        "name": "Republic"
     },
     {
         "country": "Russian Federation",
-        "location": "Eastern Europe"
+        "name": "Federal Republic"
     },
     {
         "country": "Rwanda",
-        "location": "Eastern Africa"
+        "name": "Republic"
     },
     {
         "country": "Saint Helena",
-        "location": "Western Africa"
+        "name": "Dependent Territory of the UK"
     },
     {
         "country": "Saint Kitts and Nevis",
-        "location": "Caribbean"
+        "name": "Constitutional Monarchy"
     },
     {
         "country": "Saint Lucia",
-        "location": "Caribbean"
+        "name": "Constitutional Monarchy"
     },
     {
         "country": "Saint Pierre and Miquelon",
-        "location": "North America"
+        "name": "Territorial Collectivity of France"
     },
     {
         "country": "Saint Vincent and the Grenadines",
-        "location": "Caribbean"
+        "name": "Constitutional Monarchy"
     },
     {
         "country": "Samoa",
-        "location": "Polynesia"
+        "name": "Parlementary Monarchy"
     },
     {
         "country": "San Marino",
-        "location": "Southern Europe"
+        "name": "Republic"
     },
     {
         "country": "Sao Tome and Principe",
-        "location": "Central Africa"
+        "name": "Republic"
     },
     {
         "country": "Saudi Arabia",
-        "location": "Middle East"
+        "name": "Monarchy"
     },
     {
         "country": "Scotland",
-        "location": null
+        "name": null
     },
     {
         "country": "Senegal",
-        "location": "Western Africa"
+        "name": "Republic"
     },
     {
         "country": "Seychelles",
-        "location": "Eastern Africa"
+        "name": "Republic"
     },
     {
         "country": "Sierra Leone",
-        "location": "Western Africa"
+        "name": "Republic"
     },
     {
         "country": "Singapore",
-        "location": "Southeast Asia"
+        "name": "Republic"
     },
     {
         "country": "Slovakia",
-        "location": "Eastern Europe"
+        "name": "Republic"
     },
     {
         "country": "Slovenia",
-        "location": "Southern Europe"
+        "name": "Republic"
     },
     {
         "country": "Solomon Islands",
-        "location": "Melanesia"
+        "name": "Constitutional Monarchy"
     },
     {
         "country": "Somalia",
-        "location": "Eastern Africa"
+        "name": "Republic"
     },
     {
         "country": "South Africa",
-        "location": "Southern Africa"
+        "name": "Republic"
     },
     {
         "country": "South Georgia and the South Sandwich Islands",
-        "location": "Antarctica"
+        "name": "Dependent Territory of the UK"
     },
     {
         "country": "South Korea",
-        "location": "Eastern Asia"
+        "name": "Republic"
     },
     {
         "country": "South Sudan",
-        "location": "Eastern Africa"
+        "name": null
     },
     {
         "country": "Spain",
-        "location": "Southern Europe"
+        "name": "Constitutional Monarchy"
     },
     {
         "country": "SriLanka",
-        "location": null
+        "name": null
     },
     {
         "country": "Sudan",
-        "location": "Northern Africa"
+        "name": "Islamic Republic"
     },
     {
         "country": "Suriname",
-        "location": "South America"
+        "name": "Republic"
     },
     {
         "country": "Svalbard and Jan Mayen",
-        "location": "Nordic Countries"
+        "name": "Dependent Territory of Norway"
     },
     {
         "country": "Swaziland",
-        "location": "Southern Africa"
+        "name": "Monarchy"
     },
     {
         "country": "Sweden",
-        "location": "Nordic Countries"
+        "name": "Constitutional Monarchy"
     },
     {
         "country": "Switzerland",
-        "location": "Western Europe"
+        "name": "Federation"
     },
     {
         "country": "Syria",
-        "location": "Middle East"
+        "name": "Republic"
     },
     {
         "country": "Tajikistan",
-        "location": "Southern and Central Asia"
+        "name": "Republic"
     },
     {
         "country": "Tanzania",
-        "location": "Eastern Africa"
+        "name": "Republic"
     },
     {
         "country": "Thailand",
-        "location": "Southeast Asia"
+        "name": "Constitutional Monarchy"
     },
     {
         "country": "The Democratic Republic of Congo",
-        "location": null
+        "name": null
     },
     {
         "country": "Togo",
-        "location": "Western Africa"
+        "name": "Republic"
     },
     {
         "country": "Tokelau",
-        "location": "Polynesia"
+        "name": "Nonmetropolitan Territory of New Zealand"
     },
     {
         "country": "Tonga",
-        "location": "Polynesia"
+        "name": "Monarchy"
     },
     {
         "country": "Trinidad and Tobago",
-        "location": "Caribbean"
+        "name": "Republic"
     },
     {
         "country": "Tunisia",
-        "location": "Northern Africa"
+        "name": "Republic"
     },
     {
         "country": "Turkey",
-        "location": "Middle East"
+        "name": "Republic"
     },
     {
         "country": "Turkmenistan",
-        "location": "Southern and Central Asia"
+        "name": "Republic"
     },
     {
         "country": "Turks and Caicos Islands",
-        "location": "Caribbean"
+        "name": "Dependent Territory of the UK"
     },
     {
         "country": "Tuvalu",
-        "location": "Polynesia"
+        "name": "Constitutional Monarchy"
     },
     {
         "country": "Uganda",
-        "location": "Eastern Africa"
+        "name": "Republic"
     },
     {
         "country": "Ukraine",
-        "location": "Eastern Europe"
+        "name": "Republic"
     },
     {
         "country": "United Arab Emirates",
-        "location": "Middle East"
+        "name": "Emirate Federation"
     },
     {
         "country": "United Kingdom",
-        "location": "British Isles"
+        "name": "Constitutional Monarchy"
     },
     {
         "country": "United States",
-        "location": "North America"
+        "name": "Federal Republic"
     },
     {
         "country": "United States Minor Outlying Islands",
-        "location": "Micronesia/Caribbean"
+        "name": "Dependent Territory of the US"
     },
     {
         "country": "Uruguay",
-        "location": "South America"
+        "name": "Republic"
     },
     {
         "country": "Uzbekistan",
-        "location": "Southern and Central Asia"
+        "name": "Republic"
     },
     {
         "country": "Vanuatu",
-        "location": "Melanesia"
+        "name": "Republic"
     },
     {
         "country": "Venezuela",
-        "location": "South America"
+        "name": "Federal Republic"
     },
     {
         "country": "Vietnam",
-        "location": "Southeast Asia"
+        "name": "Socialistic Republic"
     },
     {
         "country": "Virgin Islands, British",
-        "location": null
+        "name": null
     },
     {
         "country": "Virgin Islands, U.S.",
-        "location": null
+        "name": null
     },
     {
         "country": "Wales",
-        "location": null
+        "name": null
     },
     {
         "country": "Wallis and Futuna",
-        "location": "Polynesia"
+        "name": "Nonmetropolitan Territory of France"
     },
     {
         "country": "Western Sahara",
-        "location": "Northern Africa"
+        "name": "Occupied by Marocco"
     },
     {
         "country": "Yemen",
-        "location": "Middle East"
+        "name": "Republic"
     },
     {
         "country": "Yugoslavia",
-        "location": "Southern Europe"
+        "name": "Federal Republic"
     },
     {
         "country": "Zambia",
-        "location": "Eastern Africa"
+        "name": "Republic"
     },
     {
         "country": "Zimbabwe",
-        "location": "Eastern Africa"
+        "name": "Republic"
     }
 ]

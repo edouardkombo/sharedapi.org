@@ -1,974 +1,974 @@
 [
   {
     "country": "Afghanistan",
-    "tld": ".af"
+    "domain": ".af"
   },
   {
     "country": "Albania",
-    "tld": ".al"
+    "domain": ".al"
   },
   {
     "country": "Algeria",
-    "tld": ".dz"
+    "domain": ".dz"
   },
   {
     "country": "American Samoa",
-    "tld": ".as"
+    "domain": ".as"
   },
   {
     "country": "Andorra",
-    "tld": ".ad"
+    "domain": ".ad"
   },
   {
     "country": "Angola",
-    "tld": ".ao"
+    "domain": ".ao"
   },
   {
     "country": "Anguilla",
-    "tld": ".ai"
+    "domain": ".ai"
   },
   {
     "country": "Antarctica",
-    "tld": ".aq"
+    "domain": ".aq"
   },
   {
     "country": "Antigua and Barbuda",
-    "tld": ".ag"
+    "domain": ".ag"
   },
   {
     "country": "Argentina",
-    "tld": ".ar"
+    "domain": ".ar"
   },
   {
     "country": "Armenia",
-    "tld": ".am"
+    "domain": ".am"
   },
   {
     "country": "Aruba",
-    "tld": ".aw"
+    "domain": ".aw"
   },
   {
     "country": "Australia",
-    "tld": ".au"
+    "domain": ".au"
   },
   {
     "country": "Austria",
-    "tld": ".at"
+    "domain": ".at"
   },
   {
     "country": "Azerbaijan",
-    "tld": ".az"
+    "domain": ".az"
   },
   {
     "country": "Bahamas",
-    "tld": ".bs"
+    "domain": ".bs"
   },
   {
     "country": "Bahrain",
-    "tld": ".bh"
+    "domain": ".bh"
   },
   {
     "country": "Bangladesh",
-    "tld": ".bd"
+    "domain": ".bd"
   },
   {
     "country": "Barbados",
-    "tld": ".bb"
+    "domain": ".bb"
   },
   {
     "country": "Belarus",
-    "tld": ".by"
+    "domain": ".by"
   },
   {
     "country": "Belgium",
-    "tld": ".be"
+    "domain": ".be"
   },
   {
     "country": "Belize",
-    "tld": ".bz"
+    "domain": ".bz"
   },
   {
     "country": "Benin",
-    "tld": ".bj"
+    "domain": ".bj"
   },
   {
     "country": "Bermuda",
-    "tld": ".bm"
+    "domain": ".bm"
   },
   {
     "country": "Bhutan",
-    "tld": ".bt"
+    "domain": ".bt"
   },
   {
     "country": "Bolivia",
-    "tld": ".bo"
+    "domain": ".bo"
   },
   {
     "country": "Bosnia and Herzegovina",
-    "tld": ".ba"
+    "domain": ".ba"
   },
   {
     "country": "Botswana",
-    "tld": ".bw"
+    "domain": ".bw"
   },
   {
     "country": "Bouvet Island",
-    "tld": ".bv"
+    "domain": ".bv"
   },
   {
     "country": "Brazil",
-    "tld": ".br"
+    "domain": ".br"
   },
   {
     "country": "British Indian Ocean Territory",
-    "tld": ".io"
+    "domain": ".io"
   },
   {
     "country": "Brunei",
-    "tld": ".bn"
+    "domain": ".bn"
   },
   {
     "country": "Bulgaria",
-    "tld": ".bg"
+    "domain": ".bg"
   },
   {
     "country": "Burkina Faso",
-    "tld": ".bf"
+    "domain": ".bf"
   },
   {
     "country": "Burundi",
-    "tld": ".bi"
+    "domain": ".bi"
   },
   {
     "country": "Cambodia",
-    "tld": ".kh"
+    "domain": ".kh"
   },
   {
     "country": "Cameroon",
-    "tld": ".cm"
+    "domain": ".cm"
   },
   {
     "country": "Canada",
-    "tld": ".ca"
+    "domain": ".ca"
   },
   {
     "country": "Cape Verde",
-    "tld": ".cv"
+    "domain": ".cv"
   },
   {
     "country": "Cayman Islands",
-    "tld": ".ky"
+    "domain": ".ky"
   },
   {
     "country": "Central African Republic",
-    "tld": ".cf"
+    "domain": ".cf"
   },
   {
     "country": "Chad",
-    "tld": ".td"
+    "domain": ".td"
   },
   {
     "country": "Chile",
-    "tld": ".cl"
+    "domain": ".cl"
   },
   {
     "country": "China",
-    "tld": ".cn"
+    "domain": ".cn"
   },
   {
     "country": "Christmas Island",
-    "tld": ".cx"
+    "domain": ".cx"
   },
   {
     "country": "Cocos (Keeling) Islands",
-    "tld": ".cc"
+    "domain": ".cc"
   },
   {
     "country": "Colombia",
-    "tld": ".co"
+    "domain": ".co"
   },
   {
     "country": "Comoros",
-    "tld": ".km"
+    "domain": ".km"
   },
   {
     "country": "Congo",
-    "tld": ".cg"
+    "domain": ".cg"
   },
   {
     "country": "Cook Islands",
-    "tld": ".ck"
+    "domain": ".ck"
   },
   {
     "country": "Costa Rica",
-    "tld": ".cr"
+    "domain": ".cr"
   },
   {
     "country": "Croatia",
-    "tld": ".hr"
+    "domain": ".hr"
   },
   {
     "country": "Cuba",
-    "tld": ".cu"
+    "domain": ".cu"
   },
   {
     "country": "Cyprus",
-    "tld": ".cy"
+    "domain": ".cy"
   },
   {
     "country": "Czech Republic",
-    "tld": ".cz"
+    "domain": ".cz"
   },
   {
     "country": "Denmark",
-    "tld": ".dk"
+    "domain": ".dk"
   },
   {
     "country": "Djibouti",
-    "tld": ".dj"
+    "domain": ".dj"
   },
   {
     "country": "Dominica",
-    "tld": ".dm"
+    "domain": ".dm"
   },
   {
     "country": "Dominican Republic",
-    "tld": ".do"
+    "domain": ".do"
   },
   {
     "country": "East Timor",
-    "tld": ".tl"
+    "domain": ".tl"
   },
   {
     "country": "Ecuador",
-    "tld": ".ec"
+    "domain": ".ec"
   },
   {
     "country": "Egypt",
-    "tld": ".eg"
+    "domain": ".eg"
   },
   {
     "country": "El Salvador",
-    "tld": ".sv"
+    "domain": ".sv"
   },
   {
     "country": "England",
-    "tld": null
+    "domain": null
   },
   {
     "country": "Equatorial Guinea",
-    "tld": ".gq"
+    "domain": ".gq"
   },
   {
     "country": "Eritrea",
-    "tld": ".er"
+    "domain": ".er"
   },
   {
     "country": "Estonia",
-    "tld": ".ee"
+    "domain": ".ee"
   },
   {
     "country": "Ethiopia",
-    "tld": ".et"
+    "domain": ".et"
   },
   {
     "country": "Falkland Islands",
-    "tld": ".fk"
+    "domain": ".fk"
   },
   {
     "country": "Faroe Islands",
-    "tld": null
+    "domain": null
   },
   {
     "country": "Fiji Islands",
-    "tld": ".fj"
+    "domain": ".fj"
   },
   {
     "country": "Finland",
-    "tld": ".fi"
+    "domain": ".fi"
   },
   {
     "country": "France",
-    "tld": ".fr"
+    "domain": ".fr"
   },
   {
     "country": "French Guiana",
-    "tld": ".gf"
+    "domain": ".gf"
   },
   {
     "country": "French Polynesia",
-    "tld": ".pf"
+    "domain": ".pf"
   },
   {
     "country": "French Southern territories",
-    "tld": ".tf"
+    "domain": ".tf"
   },
   {
     "country": "Gabon",
-    "tld": ".ga"
+    "domain": ".ga"
   },
   {
     "country": "Gambia",
-    "tld": ".gm"
+    "domain": ".gm"
   },
   {
     "country": "Georgia",
-    "tld": ".ge"
+    "domain": ".ge"
   },
   {
     "country": "Germany",
-    "tld": ".de"
+    "domain": ".de"
   },
   {
     "country": "Ghana",
-    "tld": ".gh"
+    "domain": ".gh"
   },
   {
     "country": "Gibraltar",
-    "tld": ".gi"
+    "domain": ".gi"
   },
   {
     "country": "Greece",
-    "tld": ".gr"
+    "domain": ".gr"
   },
   {
     "country": "Greenland",
-    "tld": ".gl"
+    "domain": ".gl"
   },
   {
     "country": "Grenada",
-    "tld": ".gd"
+    "domain": ".gd"
   },
   {
     "country": "Guadeloupe",
-    "tld": ".gp"
+    "domain": ".gp"
   },
   {
     "country": "Guam",
-    "tld": ".gu"
+    "domain": ".gu"
   },
   {
     "country": "Guatemala",
-    "tld": ".gt"
+    "domain": ".gt"
   },
   {
     "country": "Guinea",
-    "tld": ".gn"
+    "domain": ".gn"
   },
   {
     "country": "Guinea-Bissau",
-    "tld": ".gw"
+    "domain": ".gw"
   },
   {
     "country": "Guyana",
-    "tld": ".gy"
+    "domain": ".gy"
   },
   {
     "country": "Haiti",
-    "tld": ".ht"
+    "domain": ".ht"
   },
   {
     "country": "Heard Island and McDonald Islands",
-    "tld": ".hm"
+    "domain": ".hm"
   },
   {
     "country": "Holy See (Vatican City State)",
-    "tld": ".va"
+    "domain": ".va"
   },
   {
     "country": "Honduras",
-    "tld": ".hn"
+    "domain": ".hn"
   },
   {
     "country": "Hong Kong",
-    "tld": ".hk"
+    "domain": ".hk"
   },
   {
     "country": "Hungary",
-    "tld": ".hu"
+    "domain": ".hu"
   },
   {
     "country": "Iceland",
-    "tld": ".is"
+    "domain": ".is"
   },
   {
     "country": "India",
-    "tld": ".in"
+    "domain": ".in"
   },
   {
     "country": "Indonesia",
-    "tld": ".id"
+    "domain": ".id"
   },
   {
     "country": "Iran",
-    "tld": ".ir"
+    "domain": ".ir"
   },
   {
     "country": "Iraq",
-    "tld": ".iq"
+    "domain": ".iq"
   },
   {
     "country": "Ireland",
-    "tld": ".ie"
+    "domain": ".ie"
   },
   {
     "country": "Israel",
-    "tld": ".il"
+    "domain": ".il"
   },
   {
     "country": "Italy",
-    "tld": ".it"
+    "domain": ".it"
   },
   {
     "country": "Ivory Coast",
-    "tld": ".ci"
+    "domain": ".ci"
   },
   {
     "country": "Jamaica",
-    "tld": ".jm"
+    "domain": ".jm"
   },
   {
     "country": "Japan",
-    "tld": ".jp"
+    "domain": ".jp"
   },
   {
     "country": "Jordan",
-    "tld": ".jo"
+    "domain": ".jo"
   },
   {
     "country": "Kazakhstan",
-    "tld": ".kz"
+    "domain": ".kz"
   },
   {
     "country": "Kenya",
-    "tld": ".ke"
+    "domain": ".ke"
   },
   {
     "country": "Kiribati",
-    "tld": ".ki"
+    "domain": ".ki"
   },
   {
     "country": "Kuwait",
-    "tld": ".kw"
+    "domain": ".kw"
   },
   {
     "country": "Kyrgyzstan",
-    "tld": ".kg"
+    "domain": ".kg"
   },
   {
     "country": "Laos",
-    "tld": ".la"
+    "domain": ".la"
   },
   {
     "country": "Latvia",
-    "tld": ".lv"
+    "domain": ".lv"
   },
   {
     "country": "Lebanon",
-    "tld": ".lb"
+    "domain": ".lb"
   },
   {
     "country": "Lesotho",
-    "tld": ".ls"
+    "domain": ".ls"
   },
   {
     "country": "Liberia",
-    "tld": ".lr"
+    "domain": ".lr"
   },
   {
     "country": "Libyan Arab Jamahiriya",
-    "tld": ".ly"
+    "domain": ".ly"
   },
   {
     "country": "Liechtenstein",
-    "tld": ".li"
+    "domain": ".li"
   },
   {
     "country": "Lithuania",
-    "tld": ".lt"
+    "domain": ".lt"
   },
   {
     "country": "Luxembourg",
-    "tld": ".lu"
+    "domain": ".lu"
   },
   {
     "country": "Macao",
-    "tld": ".mo"
+    "domain": ".mo"
   },
   {
     "country": "North Macedonia",
-    "tld": ".mk"
+    "domain": ".mk"
   },
   {
     "country": "Madagascar",
-    "tld": ".mg"
+    "domain": ".mg"
   },
   {
     "country": "Malawi",
-    "tld": ".mw"
+    "domain": ".mw"
   },
   {
     "country": "Malaysia",
-    "tld": ".my"
+    "domain": ".my"
   },
   {
     "country": "Maldives",
-    "tld": ".mv"
+    "domain": ".mv"
   },
   {
     "country": "Mali",
-    "tld": ".ml"
+    "domain": ".ml"
   },
   {
     "country": "Malta",
-    "tld": ".mt"
+    "domain": ".mt"
   },
   {
     "country": "Marshall Islands",
-    "tld": ".mh"
+    "domain": ".mh"
   },
   {
     "country": "Martinique",
-    "tld": ".mq"
+    "domain": ".mq"
   },
   {
     "country": "Mauritania",
-    "tld": ".mr"
+    "domain": ".mr"
   },
   {
     "country": "Mauritius",
-    "tld": ".mu"
+    "domain": ".mu"
   },
   {
     "country": "Mayotte",
-    "tld": ".yt"
+    "domain": ".yt"
   },
   {
     "country": "Mexico",
-    "tld": ".mx"
+    "domain": ".mx"
   },
   {
     "country": "Micronesia, Federated States of",
-    "tld": null
+    "domain": null
   },
   {
     "country": "Moldova",
-    "tld": ".md"
+    "domain": ".md"
   },
   {
     "country": "Monaco",
-    "tld": ".mc"
+    "domain": ".mc"
   },
   {
     "country": "Mongolia",
-    "tld": ".mn"
+    "domain": ".mn"
   },
   {
     "country": "Montserrat",
-    "tld": ".ms"
+    "domain": ".ms"
   },
   {
     "country": "Morocco",
-    "tld": ".ma"
+    "domain": ".ma"
   },
   {
     "country": "Mozambique",
-    "tld": ".mz"
+    "domain": ".mz"
   },
   {
     "country": "Myanmar",
-    "tld": ".mm"
+    "domain": ".mm"
   },
   {
     "country": "Namibia",
-    "tld": ".na"
+    "domain": ".na"
   },
   {
     "country": "Nauru",
-    "tld": ".nr"
+    "domain": ".nr"
   },
   {
     "country": "Nepal",
-    "tld": ".np"
+    "domain": ".np"
   },
   {
     "country": "Netherlands",
-    "tld": ".nl"
+    "domain": ".nl"
   },
   {
     "country": "Netherlands Antilles",
-    "tld": ".an"
+    "domain": ".an"
   },
   {
     "country": "New Caledonia",
-    "tld": ".nc"
+    "domain": ".nc"
   },
   {
     "country": "New Zealand",
-    "tld": ".nz"
+    "domain": ".nz"
   },
   {
     "country": "Nicaragua",
-    "tld": ".ni"
+    "domain": ".ni"
   },
   {
     "country": "Niger",
-    "tld": ".ne"
+    "domain": ".ne"
   },
   {
     "country": "Nigeria",
-    "tld": ".ng"
+    "domain": ".ng"
   },
   {
     "country": "Niue",
-    "tld": ".nu"
+    "domain": ".nu"
   },
   {
     "country": "Norfolk Island",
-    "tld": ".nf"
+    "domain": ".nf"
   },
   {
     "country": "North Korea",
-    "tld": ".kp"
+    "domain": ".kp"
   },
   {
     "country": "Northern Ireland",
-    "tld": null
+    "domain": null
   },
   {
     "country": "Northern Mariana Islands",
-    "tld": ".mp"
+    "domain": ".mp"
   },
   {
     "country": "Norway",
-    "tld": ".no"
+    "domain": ".no"
   },
   {
     "country": "Oman",
-    "tld": ".om"
+    "domain": ".om"
   },
   {
     "country": "Pakistan",
-    "tld": ".pk"
+    "domain": ".pk"
   },
   {
     "country": "Palau",
-    "tld": ".pw"
+    "domain": ".pw"
   },
   {
     "country": "Palestine",
-    "tld": ".ps"
+    "domain": ".ps"
   },
   {
     "country": "Panama",
-    "tld": ".pa"
+    "domain": ".pa"
   },
   {
     "country": "Papua New Guinea",
-    "tld": ".pg"
+    "domain": ".pg"
   },
   {
     "country": "Paraguay",
-    "tld": ".py"
+    "domain": ".py"
   },
   {
     "country": "Peru",
-    "tld": ".pe"
+    "domain": ".pe"
   },
   {
     "country": "Philippines",
-    "tld": ".ph"
+    "domain": ".ph"
   },
   {
     "country": "Pitcairn",
-    "tld": ".pn"
+    "domain": ".pn"
   },
   {
     "country": "Poland",
-    "tld": ".pl"
+    "domain": ".pl"
   },
   {
     "country": "Portugal",
-    "tld": ".pt"
+    "domain": ".pt"
   },
   {
     "country": "Puerto Rico",
-    "tld": ".pr"
+    "domain": ".pr"
   },
   {
     "country": "Qatar",
-    "tld": ".qa"
+    "domain": ".qa"
   },
   {
     "country": "Reunion",
-    "tld": ".re"
+    "domain": ".re"
   },
   {
     "country": "Romania",
-    "tld": ".ro"
+    "domain": ".ro"
   },
   {
     "country": "Russian Federation",
-    "tld": ".ru"
+    "domain": ".ru"
   },
   {
     "country": "Rwanda",
-    "tld": ".rw"
+    "domain": ".rw"
   },
   {
     "country": "Saint Helena",
-    "tld": ".sh"
+    "domain": ".sh"
   },
   {
     "country": "Saint Kitts and Nevis",
-    "tld": ".kn"
+    "domain": ".kn"
   },
   {
     "country": "Saint Lucia",
-    "tld": ".lc"
+    "domain": ".lc"
   },
   {
     "country": "Saint Pierre and Miquelon",
-    "tld": ".pm"
+    "domain": ".pm"
   },
   {
     "country": "Saint Vincent and the Grenadines",
-    "tld": ".vc"
+    "domain": ".vc"
   },
   {
     "country": "Samoa",
-    "tld": ".ws"
+    "domain": ".ws"
   },
   {
     "country": "San Marino",
-    "tld": ".sm"
+    "domain": ".sm"
   },
   {
     "country": "Sao Tome and Principe",
-    "tld": ".st"
+    "domain": ".st"
   },
   {
     "country": "Saudi Arabia",
-    "tld": ".sa"
+    "domain": ".sa"
   },
   {
     "country": "Scotland",
-    "tld": null
+    "domain": null
   },
   {
     "country": "Senegal",
-    "tld": ".sn"
+    "domain": ".sn"
   },
   {
     "country": "Seychelles",
-    "tld": ".sc"
+    "domain": ".sc"
   },
   {
     "country": "Sierra Leone",
-    "tld": ".sl"
+    "domain": ".sl"
   },
   {
     "country": "Singapore",
-    "tld": ".sg"
+    "domain": ".sg"
   },
   {
     "country": "Slovakia",
-    "tld": ".sk"
+    "domain": ".sk"
   },
   {
     "country": "Slovenia",
-    "tld": ".si"
+    "domain": ".si"
   },
   {
     "country": "Solomon Islands",
-    "tld": ".sb"
+    "domain": ".sb"
   },
   {
     "country": "Somalia",
-    "tld": ".so"
+    "domain": ".so"
   },
   {
     "country": "South Africa",
-    "tld": ".za"
+    "domain": ".za"
   },
   {
     "country": "South Georgia and the South Sandwich Islands",
-    "tld": ".gs"
+    "domain": ".gs"
   },
   {
     "country": "South Korea",
-    "tld": ".kr"
+    "domain": ".kr"
   },
   {
     "country": "South Sudan",
-    "tld": ".ss"
+    "domain": ".ss"
   },
   {
     "country": "Spain",
-    "tld": ".es"
+    "domain": ".es"
   },
   {
     "country": "SriLanka",
-    "tld": ".lk"
+    "domain": ".lk"
   },
   {
     "country": "Sudan",
-    "tld": ".sd"
+    "domain": ".sd"
   },
   {
     "country": "Suriname",
-    "tld": ".sr"
+    "domain": ".sr"
   },
   {
     "country": "Svalbard and Jan Mayen",
-    "tld": ".sj"
+    "domain": ".sj"
   },
   {
     "country": "Swaziland",
-    "tld": ".sz"
+    "domain": ".sz"
   },
   {
     "country": "Sweden",
-    "tld": ".se"
+    "domain": ".se"
   },
   {
     "country": "Switzerland",
-    "tld": ".ch"
+    "domain": ".ch"
   },
   {
     "country": "Syria",
-    "tld": ".sy"
+    "domain": ".sy"
   },
   {
     "country": "Tajikistan",
-    "tld": ".tj"
+    "domain": ".tj"
   },
   {
     "country": "Tanzania",
-    "tld": ".tz"
+    "domain": ".tz"
   },
   {
     "country": "Thailand",
-    "tld": ".th"
+    "domain": ".th"
   },
   {
     "country": "The Democratic Republic of Congo",
-    "tld": ".cd"
+    "domain": ".cd"
   },
   {
     "country": "Togo",
-    "tld": ".tg"
+    "domain": ".tg"
   },
   {
     "country": "Tokelau",
-    "tld": ".tk"
+    "domain": ".tk"
   },
   {
     "country": "Tonga",
-    "tld": ".to"
+    "domain": ".to"
   },
   {
     "country": "Trinidad and Tobago",
-    "tld": ".tt"
+    "domain": ".tt"
   },
   {
     "country": "Tunisia",
-    "tld": ".tn"
+    "domain": ".tn"
   },
   {
     "country": "Turkey",
-    "tld": ".tr"
+    "domain": ".tr"
   },
   {
     "country": "Turkmenistan",
-    "tld": ".tm"
+    "domain": ".tm"
   },
   {
     "country": "Turks and Caicos Islands",
-    "tld": ".tc"
+    "domain": ".tc"
   },
   {
     "country": "Tuvalu",
-    "tld": ".tv"
+    "domain": ".tv"
   },
   {
     "country": "Uganda",
-    "tld": ".ug"
+    "domain": ".ug"
   },
   {
     "country": "Ukraine",
-    "tld": ".ua"
+    "domain": ".ua"
   },
   {
     "country": "United Arab Emirates",
-    "tld": ".ae"
+    "domain": ".ae"
   },
   {
     "country": "United Kingdom",
-    "tld": ".gb"
+    "domain": ".gb"
   },
   {
     "country": "United States",
-    "tld": ".us"
+    "domain": ".us"
   },
   {
     "country": "United States Minor Outlying Islands",
-    "tld": null
+    "domain": null
   },
   {
     "country": "Uruguay",
-    "tld": ".uy"
+    "domain": ".uy"
   },
   {
     "country": "Uzbekistan",
-    "tld": ".uz"
+    "domain": ".uz"
   },
   {
     "country": "Vanuatu",
-    "tld": ".vu"
+    "domain": ".vu"
   },
   {
     "country": "Venezuela",
-    "tld": ".ve"
+    "domain": ".ve"
   },
   {
     "country": "Vietnam",
-    "tld": ".vn"
+    "domain": ".vn"
   },
   {
     "country": "Virgin Islands, British",
-    "tld": ".vg"
+    "domain": ".vg"
   },
   {
     "country": "Virgin Islands, U.S.",
-    "tld": ".vi"
+    "domain": ".vi"
   },
   {
     "country": "Wales",
-    "tld": null
+    "domain": null
   },
   {
     "country": "Wallis and Futuna",
-    "tld": ".wf"
+    "domain": ".wf"
   },
   {
     "country": "Western Sahara",
-    "tld": ".eh"
+    "domain": ".eh"
   },
   {
     "country": "Yemen",
-    "tld": ".ye"
+    "domain": ".ye"
   },
   {
     "country": "Yugoslavia",
-    "tld": null
+    "domain": null
   },
   {
     "country": "Zambia",
-    "tld": ".zm"
+    "domain": ".zm"
   },
   {
     "country": "Zimbabwe",
-    "tld": ".zw"
+    "domain": ".zw"
   }
 ]

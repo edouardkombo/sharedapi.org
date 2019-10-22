@@ -1,974 +1,974 @@
 [
   {
     "country": "Afghanistan",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Albania",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Algeria",
-    "elevation": "800m"
+    "value": "800m"
   },
   {
     "country": "American Samoa",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Andorra",
-    "elevation": "1,996m"
+    "value": "1,996m"
   },
   {
     "country": "Angola",
-    "elevation": "1,112m"
+    "value": "1,112m"
   },
   {
     "country": "Anguilla",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Antarctica",
-    "elevation": "2,300m"
+    "value": "2,300m"
   },
   {
     "country": "Antigua and Barbuda",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Argentina",
-    "elevation": "595m"
+    "value": "595m"
   },
   {
     "country": "Armenia",
-    "elevation": "1,792m"
+    "value": "1,792m"
   },
   {
     "country": "Aruba",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Australia",
-    "elevation": "330m"
+    "value": "330m"
   },
   {
     "country": "Austria",
-    "elevation": "910m"
+    "value": "910m"
   },
   {
     "country": "Azerbaijan",
-    "elevation": "384m"
+    "value": "384m"
   },
   {
     "country": "Bahamas",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Bahrain",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Bangladesh",
-    "elevation": "85m"
+    "value": "85m"
   },
   {
     "country": "Barbados",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Belarus",
-    "elevation": "160m"
+    "value": "160m"
   },
   {
     "country": "Belgium",
-    "elevation": "181m"
+    "value": "181m"
   },
   {
     "country": "Belize",
-    "elevation": "173m"
+    "value": "173m"
   },
   {
     "country": "Benin",
-    "elevation": "273m"
+    "value": "273m"
   },
   {
     "country": "Bermuda",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Bhutan",
-    "elevation": "3,280m"
+    "value": "3,280m"
   },
   {
     "country": "Bolivia",
-    "elevation": "1,192m"
+    "value": "1,192m"
   },
   {
     "country": "Bosnia and Herzegovina",
-    "elevation": "500m"
+    "value": "500m"
   },
   {
     "country": "Botswana",
-    "elevation": "1,013m"
+    "value": "1,013m"
   },
   {
     "country": "Bouvet Island",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Brazil",
-    "elevation": "320m"
+    "value": "320m"
   },
   {
     "country": "British Indian Ocean Territory",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Brunei",
-    "elevation": "478m"
+    "value": "478m"
   },
   {
     "country": "Bulgaria",
-    "elevation": "472m"
+    "value": "472m"
   },
   {
     "country": "Burkina Faso",
-    "elevation": "297m"
+    "value": "297m"
   },
   {
     "country": "Burundi",
-    "elevation": "1,504m"
+    "value": "1,504m"
   },
   {
     "country": "Cambodia",
-    "elevation": "126m"
+    "value": "126m"
   },
   {
     "country": "Cameroon",
-    "elevation": "667m"
+    "value": "667m"
   },
   {
     "country": "Canada",
-    "elevation": "487m"
+    "value": "487m"
   },
   {
     "country": "Cape Verde",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Cayman Islands",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Central African Republic",
-    "elevation": "635m"
+    "value": "635m"
   },
   {
     "country": "Chad",
-    "elevation": "543m"
+    "value": "543m"
   },
   {
     "country": "Chile",
-    "elevation": "1,871m"
+    "value": "1,871m"
   },
   {
     "country": "China",
-    "elevation": "1,840m"
+    "value": "1,840m"
   },
   {
     "country": "Christmas Island",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Cocos (Keeling) Islands",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Colombia",
-    "elevation": "593m"
+    "value": "593m"
   },
   {
     "country": "Comoros",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Congo",
-    "elevation": "430m"
+    "value": "430m"
   },
   {
     "country": "Cook Islands",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Costa Rica",
-    "elevation": "746m"
+    "value": "746m"
   },
   {
     "country": "Croatia",
-    "elevation": "331m"
+    "value": "331m"
   },
   {
     "country": "Cuba",
-    "elevation": "108m"
+    "value": "108m"
   },
   {
     "country": "Cyprus",
-    "elevation": "91m"
+    "value": "91m"
   },
   {
     "country": "Czech Republic",
-    "elevation": "433m"
+    "value": "433m"
   },
   {
     "country": "Denmark",
-    "elevation": "34m"
+    "value": "34m"
   },
   {
     "country": "Djibouti",
-    "elevation": "430m"
+    "value": "430m"
   },
   {
     "country": "Dominica",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Dominican Republic",
-    "elevation": "424m"
+    "value": "424m"
   },
   {
     "country": "East Timor",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Ecuador",
-    "elevation": "1,117m"
+    "value": "1,117m"
   },
   {
     "country": "Egypt",
-    "elevation": "321m"
+    "value": "321m"
   },
   {
     "country": "El Salvador",
-    "elevation": "442m"
+    "value": "442m"
   },
   {
     "country": "England",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Equatorial Guinea",
-    "elevation": "577m"
+    "value": "577m"
   },
   {
     "country": "Eritrea",
-    "elevation": "853m"
+    "value": "853m"
   },
   {
     "country": "Estonia",
-    "elevation": "61m"
+    "value": "61m"
   },
   {
     "country": "Ethiopia",
-    "elevation": "1,330m"
+    "value": "1,330m"
   },
   {
     "country": "Falkland Islands",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Faroe Islands",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Fiji Islands",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Finland",
-    "elevation": "164m"
+    "value": "164m"
   },
   {
     "country": "France",
-    "elevation": "375m"
+    "value": "375m"
   },
   {
     "country": "French Guiana",
-    "elevation": "168m"
+    "value": "168m"
   },
   {
     "country": "French Polynesia",
-    "elevation": null
+    "value": null
   },
   {
     "country": "French Southern territories",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Gabon",
-    "elevation": "377m"
+    "value": "377m"
   },
   {
     "country": "Gambia",
-    "elevation": "34m"
+    "value": "34m"
   },
   {
     "country": "Georgia",
-    "elevation": "1,432m"
+    "value": "1,432m"
   },
   {
     "country": "Germany",
-    "elevation": "263m"
+    "value": "263m"
   },
   {
     "country": "Ghana",
-    "elevation": "190m"
+    "value": "190m"
   },
   {
     "country": "Gibraltar",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Greece",
-    "elevation": "498m"
+    "value": "498m"
   },
   {
     "country": "Greenland",
-    "elevation": "1,792m"
+    "value": "1,792m"
   },
   {
     "country": "Grenada",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Guadeloupe",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Guam",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Guatemala",
-    "elevation": "759m"
+    "value": "759m"
   },
   {
     "country": "Guinea",
-    "elevation": "472m"
+    "value": "472m"
   },
   {
     "country": "Guinea-Bissau",
-    "elevation": "70m"
+    "value": "70m"
   },
   {
     "country": "Guyana",
-    "elevation": "207m"
+    "value": "207m"
   },
   {
     "country": "Haiti",
-    "elevation": "470m"
+    "value": "470m"
   },
   {
     "country": "Heard Island and McDonald Islands",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Holy See (Vatican City State)",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Honduras",
-    "elevation": "684m"
+    "value": "684m"
   },
   {
     "country": "Hong Kong",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Hungary",
-    "elevation": "143m"
+    "value": "143m"
   },
   {
     "country": "Iceland",
-    "elevation": "557m"
+    "value": "557m"
   },
   {
     "country": "India",
-    "elevation": "160m"
+    "value": "160m"
   },
   {
     "country": "Indonesia",
-    "elevation": "367m"
+    "value": "367m"
   },
   {
     "country": "Iran",
-    "elevation": "1,305m"
+    "value": "1,305m"
   },
   {
     "country": "Iraq",
-    "elevation": "312m"
+    "value": "312m"
   },
   {
     "country": "Ireland",
-    "elevation": "118m"
+    "value": "118m"
   },
   {
     "country": "Israel",
-    "elevation": "508m"
+    "value": "508m"
   },
   {
     "country": "Italy",
-    "elevation": "538m"
+    "value": "538m"
   },
   {
     "country": "Ivory Coast",
-    "elevation": "250m"
+    "value": "250m"
   },
   {
     "country": "Jamaica",
-    "elevation": "18m"
+    "value": "18m"
   },
   {
     "country": "Japan",
-    "elevation": "438m"
+    "value": "438m"
   },
   {
     "country": "Jordan",
-    "elevation": "812m"
+    "value": "812m"
   },
   {
     "country": "Kazakhstan",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Kenya",
-    "elevation": "762m"
+    "value": "762m"
   },
   {
     "country": "Kiribati",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Kuwait",
-    "elevation": "108m"
+    "value": "108m"
   },
   {
     "country": "Kyrgyzstan",
-    "elevation": "2,988m"
+    "value": "2,988m"
   },
   {
     "country": "Laos",
-    "elevation": "710m"
+    "value": "710m"
   },
   {
     "country": "Latvia",
-    "elevation": "87m"
+    "value": "87m"
   },
   {
     "country": "Lebanon",
-    "elevation": "1,250m"
+    "value": "1,250m"
   },
   {
     "country": "Lesotho",
-    "elevation": "2,161m"
+    "value": "2,161m"
   },
   {
     "country": "Liberia",
-    "elevation": "243m"
+    "value": "243m"
   },
   {
     "country": "Libyan Arab Jamahiriya",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Liechtenstein",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Lithuania",
-    "elevation": "110m"
+    "value": "110m"
   },
   {
     "country": "Luxembourg",
-    "elevation": "325m"
+    "value": "325m"
   },
   {
     "country": "Macao",
-    "elevation": null
+    "value": null
   },
   {
     "country": "North Macedonia",
-    "elevation": "741m"
+    "value": "741m"
   },
   {
     "country": "Madagascar",
-    "elevation": "615m"
+    "value": "615m"
   },
   {
     "country": "Malawi",
-    "elevation": "779m"
+    "value": "779m"
   },
   {
     "country": "Malaysia",
-    "elevation": "538m"
+    "value": "538m"
   },
   {
     "country": "Maldives",
-    "elevation": "1.8m"
+    "value": "1.8m"
   },
   {
     "country": "Mali",
-    "elevation": "343m"
+    "value": "343m"
   },
   {
     "country": "Malta",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Marshall Islands",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Martinique",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Mauritania",
-    "elevation": "276m"
+    "value": "276m"
   },
   {
     "country": "Mauritius",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Mayotte",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Mexico",
-    "elevation": "1,111m"
+    "value": "1,111m"
   },
   {
     "country": "Micronesia, Federated States of",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Moldova",
-    "elevation": "139m"
+    "value": "139m"
   },
   {
     "country": "Monaco",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Mongolia",
-    "elevation": "1,528m"
+    "value": "1,528m"
   },
   {
     "country": "Montserrat",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Morocco",
-    "elevation": "909m"
+    "value": "909m"
   },
   {
     "country": "Mozambique",
-    "elevation": "345m"
+    "value": "345m"
   },
   {
     "country": "Myanmar",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Namibia",
-    "elevation": "1,141m"
+    "value": "1,141m"
   },
   {
     "country": "Nauru",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Nepal",
-    "elevation": "3,265m"
+    "value": "3,265m"
   },
   {
     "country": "Netherlands",
-    "elevation": "30m"
+    "value": "30m"
   },
   {
     "country": "Netherlands Antilles",
-    "elevation": null
+    "value": null
   },
   {
     "country": "New Caledonia",
-    "elevation": null
+    "value": null
   },
   {
     "country": "New Zealand",
-    "elevation": "388m"
+    "value": "388m"
   },
   {
     "country": "Nicaragua",
-    "elevation": "298m"
+    "value": "298m"
   },
   {
     "country": "Niger",
-    "elevation": "474m"
+    "value": "474m"
   },
   {
     "country": "Nigeria",
-    "elevation": "380m"
+    "value": "380m"
   },
   {
     "country": "Niue",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Norfolk Island",
-    "elevation": null
+    "value": null
   },
   {
     "country": "North Korea",
-    "elevation": "400m"
+    "value": "400m"
   },
   {
     "country": "Northern Ireland",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Northern Mariana Islands",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Norway",
-    "elevation": "460m"
+    "value": "460m"
   },
   {
     "country": "Oman",
-    "elevation": "310m"
+    "value": "310m"
   },
   {
     "country": "Pakistan",
-    "elevation": "900m"
+    "value": "900m"
   },
   {
     "country": "Palau",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Palestine",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Panama",
-    "elevation": "360m"
+    "value": "360m"
   },
   {
     "country": "Papua New Guinea",
-    "elevation": "667m"
+    "value": "667m"
   },
   {
     "country": "Paraguay",
-    "elevation": "178m"
+    "value": "178m"
   },
   {
     "country": "Peru",
-    "elevation": "1,555m"
+    "value": "1,555m"
   },
   {
     "country": "Philippines",
-    "elevation": "442m"
+    "value": "442m"
   },
   {
     "country": "Pitcairn",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Poland",
-    "elevation": "173m"
+    "value": "173m"
   },
   {
     "country": "Portugal",
-    "elevation": "372m"
+    "value": "372m"
   },
   {
     "country": "Puerto Rico",
-    "elevation": "261m"
+    "value": "261m"
   },
   {
     "country": "Qatar",
-    "elevation": "28m"
+    "value": "28m"
   },
   {
     "country": "Reunion",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Romania",
-    "elevation": "414m"
+    "value": "414m"
   },
   {
     "country": "Russian Federation",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Rwanda",
-    "elevation": "1,598m"
+    "value": "1,598m"
   },
   {
     "country": "Saint Helena",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Saint Kitts and Nevis",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Saint Lucia",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Saint Pierre and Miquelon",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Saint Vincent and the Grenadines",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Samoa",
-    "elevation": null
+    "value": null
   },
   {
     "country": "San Marino",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Sao Tome and Principe",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Saudi Arabia",
-    "elevation": "665m"
+    "value": "665m"
   },
   {
     "country": "Scotland",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Senegal",
-    "elevation": "69m"
+    "value": "69m"
   },
   {
     "country": "Seychelles",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Sierra Leone",
-    "elevation": "279m"
+    "value": "279m"
   },
   {
     "country": "Singapore",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Slovakia",
-    "elevation": "458m"
+    "value": "458m"
   },
   {
     "country": "Slovenia",
-    "elevation": "492m"
+    "value": "492m"
   },
   {
     "country": "Solomon Islands",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Somalia",
-    "elevation": "410m"
+    "value": "410m"
   },
   {
     "country": "South Africa",
-    "elevation": "1,034m"
+    "value": "1,034m"
   },
   {
     "country": "South Georgia and the South Sandwich Islands",
-    "elevation": null
+    "value": null
   },
   {
     "country": "South Korea",
-    "elevation": "282m"
+    "value": "282m"
   },
   {
     "country": "South Sudan",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Spain",
-    "elevation": "660m"
+    "value": "660m"
   },
   {
     "country": "SriLanka",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Sudan",
-    "elevation": "568m"
+    "value": "568m"
   },
   {
     "country": "Suriname",
-    "elevation": "246m"
+    "value": "246m"
   },
   {
     "country": "Svalbard and Jan Mayen",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Swaziland",
-    "elevation": "305m"
+    "value": "305m"
   },
   {
     "country": "Sweden",
-    "elevation": "320m"
+    "value": "320m"
   },
   {
     "country": "Switzerland",
-    "elevation": "1,350m"
+    "value": "1,350m"
   },
   {
     "country": "Syria",
-    "elevation": "514m"
+    "value": "514m"
   },
   {
     "country": "Tajikistan",
-    "elevation": "3,186m"
+    "value": "3,186m"
   },
   {
     "country": "Tanzania",
-    "elevation": "1,018m"
+    "value": "1,018m"
   },
   {
     "country": "Thailand",
-    "elevation": "287m"
+    "value": "287m"
   },
   {
     "country": "The Democratic Republic of Congo",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Togo",
-    "elevation": "236m"
+    "value": "236m"
   },
   {
     "country": "Tokelau",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Tonga",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Trinidad and Tobago",
-    "elevation": "83m"
+    "value": "83m"
   },
   {
     "country": "Tunisia",
-    "elevation": "246m"
+    "value": "246m"
   },
   {
     "country": "Turkey",
-    "elevation": "1,132m"
+    "value": "1,132m"
   },
   {
     "country": "Turkmenistan",
-    "elevation": "230m"
+    "value": "230m"
   },
   {
     "country": "Turks and Caicos Islands",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Tuvalu",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Uganda",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Ukraine",
-    "elevation": "175m"
+    "value": "175m"
   },
   {
     "country": "United Arab Emirates",
-    "elevation": "149m"
+    "value": "149m"
   },
   {
     "country": "United Kingdom",
-    "elevation": "162m"
+    "value": "162m"
   },
   {
     "country": "United States",
-    "elevation": "760m"
+    "value": "760m"
   },
   {
     "country": "United States Minor Outlying Islands",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Uruguay",
-    "elevation": "109m"
+    "value": "109m"
   },
   {
     "country": "Uzbekistan",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Vanuatu",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Venezuela",
-    "elevation": "450m"
+    "value": "450m"
   },
   {
     "country": "Vietnam",
-    "elevation": "398m"
+    "value": "398m"
   },
   {
     "country": "Virgin Islands, British",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Virgin Islands, U.S.",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Wales",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Wallis and Futuna",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Western Sahara",
-    "elevation": "256m"
+    "value": "256m"
   },
   {
     "country": "Yemen",
-    "elevation": "999m"
+    "value": "999m"
   },
   {
     "country": "Yugoslavia",
-    "elevation": null
+    "value": null
   },
   {
     "country": "Zambia",
-    "elevation": "1,138m"
+    "value": "1,138m"
   },
   {
     "country": "Zimbabwe",
-    "elevation": "961m"
+    "value": "961m"
   }
 ]

@@ -47,27 +47,27 @@ class Country
     private $name;
 
     /**
-     * @ORM\Column(type="string", length=3)
+     * @ORM\Column(type="string", length=3, nullable=true)
      */
     private $code;
 
     /**
-     * @ORM\Column(type="string", length=6)
+     * @ORM\Column(type="string", length=6, nullable=true)
      */
     private $callingCode;
 
     /**
-     * @ORM\Column(type="string", length=5)
+     * @ORM\Column(type="string", length=5, nullable=true)
      */
     private $domain;
 
     /**
-     * @ORM\Column(type="smallint")
+     * @ORM\Column(type="smallint", nullable=true)
      */
     private $iso;
 
     /**
-     * @ORM\Column(type="float")
+     * @ORM\Column(type="float", nullable=true)
      */
     private $surface;
 

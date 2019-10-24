@@ -35,19 +35,18 @@ class CountryFixtures extends Fixture
         $this->fillBag('self');
         $this->fillBag('relations');
 
-
-        $country = new Country();
-        $region = new Region();
-        $city = new City();
-        $independence = new Independence();
-        $coordinates = new Coordinates();
-        $flag = new Flag();
-        $government = new Government();
-        $language = new Language();
-        $continent = new Continent();
-        $elevation = new Elevation();
-
         foreach ($this->bag as $cName => $partitions) {
+            $country = new Country();
+            $region = new Region();
+            $city = new City();
+            $independence = new Independence();
+            $coordinates = new Coordinates();
+            $flag = new Flag();
+            $government = new Government();
+            $language = new Language();
+            $continent = new Continent();
+            $elevation = new Elevation();
+
             $country->setName($cName);
 
             foreach ($partitions as $partitionKey => $partitionValues) {
@@ -101,8 +100,8 @@ class CountryFixtures extends Fixture
                 }
 
             }
-        }
 
+        }
         $manager->flush();
     }
 
@@ -119,7 +118,7 @@ class CountryFixtures extends Fixture
                 foreach ($c as $k => $v) {
                     if (in_array($countryName, array_keys($this->bag)) && $k !== 'country') {
                         $this->bag[$countryName][$type] = (isset($this->bag[$countryName][$type])) ? $this->bag[$countryName][$type] : [];
-                        $t = [strtolower($k) => $v];
+                        $t = [$k => $v];
 
                         if ($type === "relations") {
                             $this->bag[$countryName][$type][$fileName] = (isset($this->bag[$countryName][$type][$fileName])) ? $this->bag[$countryName][$type][$fileName] : [];

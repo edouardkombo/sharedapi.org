@@ -1,0 +1,9 @@
+  
+debug = false
+
+logLevel = "ERROR"
+defaultEntryPoints = ["https"]
+
+[entryPoints]
+  [entryPoints.https]
+  address = ":443"

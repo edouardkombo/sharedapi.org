@@ -1,12 +1,29 @@
 api_platform:
-    title: Hello API Platform
+    title: Sharedapi.org
     version: 1.0.0
+
+    formats:
+        graphql: ['application/graphql']
+
     mapping:
         paths: ['%kernel.project_dir%/src/Entity']
+
     patch_formats:
         json: ['application/merge-patch+json']
+
     swagger:
         versions: [3]
+
     # Mercure integration, remove if unwanted
     mercure:
         hub_url: '%env(MERCURE_SUBSCRIBE_URL)%'
+
+    elasticsearch:
+        hosts: ['%env(ELASTICSEARCH_HOST)%']
+
+    graphql:
+        default_ide: graphql_playground
+        graphiql:
+            enabled: false
+        graphql_playground:
+            enabled: true

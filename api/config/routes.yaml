@@ -1,3 +1,11 @@
 #index:
 #    path: /
 #    controller: App\Controller\DefaultController::index
+
+graphiql:
+    path: /kind/graphiql
+    controller: api_platform.graphql.action.graphiql
+
+graphql_playground:
+    path: /kind/graphql
+    controller: api_platform.graphql.action.graphql_playground

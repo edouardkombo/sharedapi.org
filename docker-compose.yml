@@ -16,7 +16,7 @@ x-network:
 services:
 # Uncomment these lines only if you want to run one api-platform instance using traefik
   traefik:
-    image: traefik:v2.0.0-rc3
+    image: traefik:v2.1.0-rc2
     command:
       - "--log.level=DEBUG"
       - "--api.insecure=true"
@@ -32,6 +32,12 @@ services:
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock
     <<: *network
+    logging:
+      driver: "json-file"
+      options:
+        max-file: "1"
+        max-size: "5m"
+
 
   php:
     image: ${CONTAINER_REGISTRY_BASE}/php
@@ -49,9 +55,18 @@ services:
       - MERCURE_SUBSCRIBE_URL=${HTTP_OR_SSL}mercure.${DOMAIN_NAME}$$
       - MERCURE_PUBLISH_URL=${HTTP_OR_SSL}mercure.${DOMAIN_NAME}$$
       - MERCURE_JWT_SECRET=${JWT_KEY}
+      - APP_SECRET=${JWT_KEY}
+      - ELASTICSEARCH_HOST=${HTTP_OR_SSL}localhost:9200
+    expose:
+      - 9200
     volumes:
       - ./api:/srv/api:rw,cached
     <<: *network
+    logging:
+      driver: "json-file"
+      options:
+        max-file: "1"
+        max-size: "5m"
 
   api:
     image: ${CONTAINER_REGISTRY_BASE}/nginx
@@ -67,6 +82,11 @@ services:
       - traefik.http.routers.api.rule=Host(`api.${DOMAIN_NAME}`)
       - traefik.enable=true
     <<: *network
+    logging:
+      driver: "json-file"
+      options:
+        max-file: "1"
+        max-size: "5m"
 
   cache-proxy:
     image: ${CONTAINER_REGISTRY_BASE}/varnish
@@ -84,6 +104,11 @@ services:
       - traefik.http.routers.cache-proxy.rule=Host(`cache.${DOMAIN_NAME}`)
       - traefik.enable=true
     <<: *network
+    logging:
+      driver: "json-file"
+      options:
+        max-file: "1"
+        max-size: "5m"
 
   db:
     image: postgres:10-alpine
@@ -94,6 +119,11 @@ services:
     volumes:
       - db-data:/var/lib/postgresql/data:rw
     <<: *network
+    logging:
+      driver: "json-file"
+      options:
+        max-file: "1"
+        max-size: "5m"
 
   mercure:
     image: dunglas/mercure
@@ -107,6 +137,11 @@ services:
       - traefik.http.routers.mercure.rule=Host(`mercure.${DOMAIN_NAME}`)
       - traefik.enable=true
     <<: *network
+    logging:
+      driver: "json-file"
+      options:
+        max-file: "1"
+        max-size: "5m"
 
   client:
     image: ${CONTAINER_REGISTRY_BASE}/client
@@ -120,13 +155,18 @@ services:
     expose:
       - 3000
     labels:
-      - traefik.http.routers.client.rule=Host(`${DOMAIN_NAME},www.${DOMAIN_NAME}`)
+      - traefik.http.routers.client.rule=Host(`${DOMAIN_NAME}`)
       - traefik.enable=true
       - traefik.port=3000
     environment:
       # You should remove this variable from .env into client folder
       - REACT_APP_API_ENTRYPOINT=${HTTP_OR_SSL}www.${DOMAIN_NAME}
     <<: *network
+    logging:
+      driver: "json-file"
+      options:
+        max-file: "1"
+        max-size: "5m"
 
   admin:
     image: ${CONTAINER_REGISTRY_BASE}/admin
@@ -147,10 +187,97 @@ services:
       - traefik.enable=true
       - traefik.port=3000
     <<: *network
+    logging:
+      driver: "json-file"
+      options:
+        max-file: "1"
+        max-size: "5m"
+
+  es01:
+    image: docker.elastic.co/elasticsearch/elasticsearch:7.3.1
+    container_name: es01
+    environment:
+      - node.name=es01
+      - discovery.seed_hosts=es02
+      - cluster.initial_master_nodes=es01,es02
+      - cluster.name=docker-cluster
+      - bootstrap.memory_lock=true
+      - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
+    #ulimits:
+    #  memlock:
+    #    soft: -1
+    #    hard: -1
+    volumes:
+      - esdata01:/usr/share/elasticsearch/data
+    ports:
+      - 9200:9200
+    networks:
+      - esnet
+    logging:
+      driver: "json-file"
+      options:
+        max-file: "1"
+        max-size: "5m"
+
+  es02:
+    image: docker.elastic.co/elasticsearch/elasticsearch:7.3.1
+    container_name: es02
+    environment:
+      - node.name=es02
+      - discovery.seed_hosts=es01
+      - cluster.initial_master_nodes=es01,es02
+      - cluster.name=docker-cluster
+      - bootstrap.memory_lock=true
+      - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
+    #ulimits:
+    #  memlock:
+    #    soft: -1
+    #    hard: -1
+    volumes:
+      - esdata02:/usr/share/elasticsearch/data
+    networks:
+      - esnet
+    logging:
+      driver: "json-file"
+      options:
+        max-file: "1"
+        max-size: "5m"
+
+  # Access Kibana at http://localhost:5601  without Traefik
+  # Access Kibana at http://kibana.test (if using Traefik)
+  kibana:
+    container_name: kibana
+    image: docker.elastic.co/kibana/kibana:7.3.1  # must match elasticsearch image
+    labels:  # used for Traefik dynamic configuration
+      - traefik.enable=true
+      - traefik.backend=kibana
+      - traefik.http.routers.kibana.rule=Host(`kibana.${DOMAIN_NAME}`)
+      - traefik.frontend.rule=Host:kibana.test
+      - traefik.port=5601
+    environment:
+      - SERVER_NAME=kibana.local
+      - ELASTICSEARCH_HOSTS=http://es01:9200
+      #- ELASTICSEARCH_URL=http://localhost:9200
+      - xpack.security.enabled=false
+    ports:
+      - 5601:5601
+    networks:
+      - esnet
+    restart: always
+    logging:
+      driver: "json-file"
+      options:
+        max-file: "1"
+        max-size: "5m"
 
 volumes:
   db-data: {}
+  esdata01:
+    driver: local
+  esdata02:
+    driver: local
 
 networks:
   api_platform_network:
     external: true
+  esnet:

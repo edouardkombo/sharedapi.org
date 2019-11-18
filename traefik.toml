@@ -10,7 +10,10 @@ defaultEntryPoints = ["https"]
 
 [entryPoints]
   [entryPoints.https]
-  address = ":443"
+    address = ":443"
+
+[metrics]
+  [metrics.prometheus]
 
 ################################################################
 # Docker configuration backend

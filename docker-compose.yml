@@ -20,6 +20,8 @@ services:
     command:
       - "--log.level=DEBUG"
       - "--api.insecure=true"
+      - "--metrics"
+      - "--metrics.prometheus.buckets=0.1,0.3,1.2,5.0"
       - "--providers.docker=true"
       - "--providers.docker.exposedbydefault=true"
       - "--entrypoints.web.address=:80"
@@ -133,9 +135,14 @@ services:
       - CORS_ALLOWED_ORIGINS=^${HTTP_OR_SSL}(${SUBDOMAINS_LIST}.)?${DOMAIN_NAME}$$
       - PUBLISH_ALLOWED_ORIGINS=${HTTP_OR_SSL}
       - DEMO=1
-    labels:
-      - traefik.http.routers.mercure.rule=Host(`mercure.${DOMAIN_NAME}`)
+    labels:  
       - traefik.enable=true
+      - traefik.backend=mercure
+      - traefik.http.routers.mercure.rule=Host(`mercure.${DOMAIN_NAME}`)
+      - traefik.http.routers.mercure.service=mercure@internal
+      - traefik.http.routers.mercure.middlewares=auth
+      - traefik.http.middlewares.auth.basicauth.users=${MERCURE_HTACCESS}
+      - traefik.frontend.rule=Host:mercure.test
     <<: *network
     logging:
       driver: "json-file"
@@ -154,6 +161,8 @@ services:
       - /usr/src/client/node_modules
     expose:
       - 3000
+    ports:
+      - target: 3000
     labels:
       - traefik.http.routers.client.rule=Host(`${DOMAIN_NAME}`)
       - traefik.enable=true
@@ -177,15 +186,21 @@ services:
     environment:
       # You should remove this variable from .env into admin folder
       - REACT_APP_API_ENTRYPOINT=${HTTP_OR_SSL}admin.${DOMAIN_NAME}
+    labels:  
+      - traefik.enable=true
+      - traefik.backend=admin
+      - traefik.http.routers.admin.rule=Host(`admin.${DOMAIN_NAME}`)
+      - traefik.http.routers.admin.service=admin@internal
+      - traefik.http.routers.admin.middlewares=auth
+      - traefik.http.middlewares.auth.basicauth.users=${ADMIN_HTACCESS}
+      - traefik.frontend.rule=Host:admin.test
     volumes:
       - ./admin:/usr/src/admin:rw,cached
       - /usr/src/admin/node_modules
-    expose:
-      - 3000
-    labels:
-      - traefik.http.routers.admin.rule=Host(`admin.${DOMAIN_NAME}`)
-      - traefik.enable=true
-      - traefik.port=3000
+    ports:
+      - target: 3000
+        published: 81
+        protocol: tcp
     <<: *network
     logging:
       driver: "json-file"
@@ -202,17 +217,22 @@ services:
       - cluster.initial_master_nodes=es01,es02
       - cluster.name=docker-cluster
       - bootstrap.memory_lock=true
-      - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
-    #ulimits:
-    #  memlock:
-    #    soft: -1
-    #    hard: -1
+      - "ES_JAVA_OPTS=-Xms256m -Xmx256m"
+    labels:  
+      - traefik.enable=true
+      - traefik.backend=es01
+      - traefik.http.routers.es01.rule=Host(`elastic-api.${DOMAIN_NAME}`)
+      - traefik.port=9200
+    ulimits:
+      memlock:
+        soft: -1
+        hard: -1
     volumes:
       - esdata01:/usr/share/elasticsearch/data
     ports:
       - 9200:9200
-    networks:
-      - esnet
+      - 9300:9300
+    <<: *network
     logging:
       driver: "json-file"
       options:
@@ -228,15 +248,19 @@ services:
       - cluster.initial_master_nodes=es01,es02
       - cluster.name=docker-cluster
       - bootstrap.memory_lock=true
-      - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
-    #ulimits:
-    #  memlock:
-    #    soft: -1
-    #    hard: -1
+      - "ES_JAVA_OPTS=-Xms256m -Xmx256m"
+    labels:  
+      - traefik.enable=true
+      - traefik.backend=es02
+      - traefik.http.routers.es02.rule=Host(`elastic-api2.${DOMAIN_NAME}`)
+      - traefik.port=9200
+    ulimits:
+      memlock:
+        soft: -1
+        hard: -1
     volumes:
       - esdata02:/usr/share/elasticsearch/data
-    networks:
-      - esnet
+    <<: *network
     logging:
       driver: "json-file"
       options:
@@ -248,21 +272,139 @@ services:
   kibana:
     container_name: kibana
     image: docker.elastic.co/kibana/kibana:7.3.1  # must match elasticsearch image
-    labels:  # used for Traefik dynamic configuration
+    labels:  
       - traefik.enable=true
       - traefik.backend=kibana
       - traefik.http.routers.kibana.rule=Host(`kibana.${DOMAIN_NAME}`)
+      - traefik.http.routers.kibana.service=kibana@internal
+      - traefik.http.routers.kibana.middlewares=auth
+      - traefik.http.middlewares.auth.basicauth.users=${KIBANA_HTACCESS}
       - traefik.frontend.rule=Host:kibana.test
       - traefik.port=5601
     environment:
       - SERVER_NAME=kibana.local
       - ELASTICSEARCH_HOSTS=http://es01:9200
-      #- ELASTICSEARCH_URL=http://localhost:9200
       - xpack.security.enabled=false
     ports:
       - 5601:5601
-    networks:
-      - esnet
+    links:
+      - es01:elasticsearch
+      - es02:elasticsearch
+    depends_on:
+      - es01
+      - es02
+    <<: *network
+    restart: always
+    logging:
+      driver: "json-file"
+      options:
+        max-file: "1"
+        max-size: "5m"
+
+  logstash:
+    container_name: logstash
+    image: docker.elastic.co/logstash/logstash:6.6.2
+    volumes:
+      - ./logstash/pipeline/:/usr/share/logstash/pipeline/
+      - ./logstash/:/usr/share/logstash/config/
+      - ./logstash/patterns:/etc/logstash/patterns
+      - ./logstash/templates:/etc/logstash/templates
+      - ./logstash/conf.d/:/etc/logstash/conf.d/
+    labels:  
+      - traefik.enable=true
+      - traefik.backend=logstash
+      - traefik.http.routers.logstash.rule=Host(`logstash.${DOMAIN_NAME}`)
+      - traefik.http.routers.logstash.service=logstash@internal
+      - traefik.http.routers.logstash.middlewares=auth
+      - traefik.http.middlewares.auth.basicauth.users=${LOGSTASH_HTACCESS}
+      - traefik.frontend.rule=Host:logstash.test
+    ports:
+      - "5044:5044"
+      - "5000:5000"
+      - "5001:5002"
+      - "5002:5002"
+      - "9600:9600"
+    links:
+      - es01
+      - es02
+    environment:
+      - "LS_JAVA_OPTS=-Xmx256m -Xms256m"
+    <<: *network
+    restart: always
+    logging:
+      driver: "json-file"
+      options:
+        max-file: "1"
+        max-size: "5m"
+
+#  graylog_mongo:
+#    image: mongo:4
+#    container_name: graylog_mongo
+#    restart: always
+#    labels:
+#      - "traefik.enable=false"
+#    volumes:
+#      - "graylog_mongo:/data/db"
+#    <<: *network
+#    logging:
+#      driver: "json-file"
+#      options:
+#        max-file: "1"
+#        max-size: "5m"
+
+#  graylog:
+#    image: graylog/graylog:3.1.0
+#    container_name: graylog
+#    volumes:
+#      - "graylog_graylog-data:/usr/share/graylog/data/journal"
+#      - "graylog_graylog-config:/usr/share/graylog/data/config"
+#    restart: always
+#    env_file:
+#      - ./graylog.env
+#    labels:
+#      - traefik.backend=graylog
+#      - traefik.docker.network=compose_frontend
+#      - traefik.port=9000"
+#      - traefik.frontend.entryPoints=http,https
+#      - traefik.http.routers.logstash.rule=Host(`graylog.${DOMAIN_NAME}`)
+#      - traefik.frontend.rule=Host:graylog.test
+#    depends_on:
+#      - graylog_mongo
+#      - es01
+#      - es02
+#    links:
+#      - graylog_mongo:mongo
+#      - es01:elasticsearch
+#      - es02:elasticsearch
+#    <<: *network
+#    ports:
+#      - "12201:12201/udp"
+#    logging:
+#      driver: "json-file"
+#      options:
+#        max-file: "1"
+#        max-size: "5m"
+
+  grafana:
+    image: grafana/grafana
+    environment:
+      - GF_SERVER_DOMAIN=grafana.${DOMAIN_NAME}
+      - GF_SERVER_ROOT_URL=${HTTP_OR_SSL}grafana.${DOMAIN_NAME}
+      - GF_SECURITY_ADMIN_USER=${GRAFANA_USERNAME}
+      - GF_SECURITY_ADMIN_PASSWORD=${GRAFANA_PASSWORD}
+      - GF_METRICS_ENABLED=true
+      - GF_METRICS_BASIC_AUTH_USERNAME=${GRAFANA_USERNAME}
+      - GF_METRICS_BASIC_AUTH_PASSWORD=${GRAFANA_PASSWORD}
+      - GF_ANALYTICS_REPORTING_ENABLED=false
+      - GF_INSTALL_PLUGINS=${GRAFANA_PLUGINS}
+    volumes:
+      - grafana:/var/lib/grafana
+    <<: *network
+    labels:
+      - traefik.enable=true
+      - traefik.port=3001
+      - traefik.http.routers.grafana.rule=Host(`grafana.${DOMAIN_NAME}`)
+      - traefik.frontend.rule=Host:grafana.local
     restart: always
     logging:
       driver: "json-file"
@@ -276,8 +418,11 @@ volumes:
     driver: local
   esdata02:
     driver: local
+  grafana:
+  graylog_mongo:
+  graylog_graylog-data:
+  graylog_graylog-config:
 
 networks:
   api_platform_network:
     external: true
-  esnet:
